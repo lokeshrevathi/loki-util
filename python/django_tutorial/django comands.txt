@@ -1,0 +1,77 @@
+=============================================================================
+C:\Users\lokesh.subramaniyan>pip --version   ----------->   pip version check
+=============================================================================
+pip 23.1.2 from C:\Users\lokesh.subramaniyan\AppData\Local\Programs\Python\Python311\Lib\site-packages\pip (python 3.11)
+
+=================================================================================================
+C:\Users\lokesh.subramaniyan>py -m venv myworld  -------->  create virtual environment for django
+=================================================================================================
+
+=============================================================================================
+C:\Users\lokesh.subramaniyan>myworld\Scripts\activate.bat -----> activate virtual environment
+=============================================================================================
+
+===========================================================================================
+(myworld) C:\Users\lokesh.subramaniyan>py -m pip install django    --------> install django
+===========================================================================================
+Collecting django
+  Downloading Django-4.2.4-py3-none-any.whl (8.0 MB)
+     ---------------------------------------- 8.0/8.0 MB 5.1 MB/s eta 0:00:00
+Collecting asgiref<4,>=3.6.0 (from django)
+  Downloading asgiref-3.7.2-py3-none-any.whl (24 kB)
+Collecting sqlparse>=0.3.1 (from django)
+  Downloading sqlparse-0.4.4-py3-none-any.whl (41 kB)
+     ---------------------------------------- 41.2/41.2 kB 1.9 MB/s eta 0:00:00
+Collecting tzdata (from django)
+  Downloading tzdata-2023.3-py2.py3-none-any.whl (341 kB)
+     ---------------------------------------- 341.8/341.8 kB 1.9 MB/s eta 0:00:00
+Installing collected packages: tzdata, sqlparse, asgiref, django
+Successfully installed asgiref-3.7.2 django-4.2.4 sqlparse-0.4.4 tzdata-2023.3
+
+[notice] A new release of pip is available: 23.1.2 -> 23.2.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+==================================================================================================
+(myworld) C:\Users\lokesh.subramaniyan>django-admin --version     --------->  django version check
+==================================================================================================
+4.2.4
+
+(myworld) C:\Users\lokesh.subramaniyan>
+
+==================================================================================================================
+(myworld) C:\Users\lokesh.subramaniyan>django-admin startproject my_tennis_club  -------->   create django project
+==================================================================================================================
+
+========================================================
+(myworld) C:\Users\lokesh.subramaniyan>cd my_tennis_club
+========================================================
+
+======================================================================================================================
+(myworld) C:\Users\lokesh.subramaniyan\my_tennis_club>py manage.py runserver   ---------->   To run the django project
+======================================================================================================================
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+September 01, 2023 - 16:29:33
+Django version 4.2.4, using settings 'my_tennis_club.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+ 
+========================================================================================================
+(myworld) C:\Users\lokesh.subramaniyan\my_tennis_club>py manage.py startapp members --------> create app
+========================================================================================================
+
+
+create functions in views 
+create urls.py in the app
+in that urls.py create url pattern for views functions
+than set path for the app urls in urls.py in project path
+
+==========================================================================
+(myworld) C:\Users\lokesh.subramaniyan\my_tennis_club>py manage.py migrate --------> 
+==========================================================================
+

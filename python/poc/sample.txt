@@ -1,0 +1,94 @@
+==     FIDELIS CARE NEW YORK - MEDICARE ADVANTAGE
+YERTLE OPERATIONS LLC DBA FISHKI FPE: C             FIDELIS CARE NEW YORK - MEDICARE ADVANTAGE
+22 ROBERT R KASIN WAY            PAID: 03/08/24     25-01 JACKSON AVE
+BEACON NY 125081559              TOB: 327           LONG ISLAND CITY NY 11101
+NPI: 1841728664                  FTN: 814603469     TE: 
+CLM#: 46436425                               CHECK/EFT: 24068B1000072180
+                                             CHECK AMT: 98.00
+----------------------------------------------------------------------------------
+PATIENT: MCCARTHY, WENDY                             PCN: 46436425
+MID: 74391644600                 SVC FROM: 01/23/24  MRN: 9002
+CLAIM STAT: 1                        THRU: 01/31/24  ICN: 038865106201
+COR MID: 
+----------------------------------------------------------------------------------
+CHARGES:                       PAYMENT DATA:      =DRG      0.000=REIM RATE
+        250.00=REPORTED            0.00=DRG AMOUNT          0.00=MSP PRIM PAYER
+        2.00=NCVD/DENIED           0.00=DRG/OPER/CAP        0.00=PROF COMPONENT
+        0.00=CLAIM ADJS            150.00=LINE ADJ AMT      0.00=ESRD AMOUNT
+        100.00=COVERED             0.00=OUTLIER             0.00=PROC CD AMOUNT
+DAYS/VISITS:                       0.00=CAP OUTLIER         98.00=ALLOW/REIM
+        =COST REPT                 0.00=CASH DEDUCT         0.00=SEQUESTRATN
+        0=COVD/UTIL                0.00=BLOOD DEDUCT        0.00=INTEREST
+        0=NON-COVERED              0.00=COINSURANCE         0.00=CONTRACT ADJ
+        0=COVD VISITS              0.00=PAT REFUND          0.00=PER DIEM AMT
+        0=NCOV VISITS              0.00=PBP REDUCT          0.00=PA REDUCT
+                                   0.00=DISC PEN AMT        98.00=NET REIM AMT
+----------------------------------------------------------------------------------
+ADJ REASON CODES:  
+REV   DATE   HCPCS  APC/HIPPS  MODS      QTY      CHARGES  ALLOW/REIM  GC  RSN       AMOUNT  REMARK CODES
+ LICN                    HCPI
+SVC Desc
+0023  01/23  1AA11                         0         0.00        0.00          N377
+7841096374Z1                                                         
+                                                                     
+0421  01/30  G0151                         1       250.00       98.00  CO   45       150.00          N377
+505794676                                                              CO  253         2.00
+                                                                     
+----------------------------------------------------------------------------------
+GLOSSARY
+CO    Contractual obligations.  The patient may not be billed for this amount 
+N377  Payment based on a processed replacement claim. 
+45    Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement. Note: This 
+      adjustment amount cannot equal the total service or claim charge amount; and must not duplicate 
+      provider adjustment amounts (payments and contractual reductions) that have resulted from prior 
+      payer(s) adjudication. (Use only with Group Codes PR or CO depending upon liability)  
+253   Sequestration - reduction in federal spending. 
+----------------------------------------------------------------------------------
+ 
+3/15/24, 5:57 PM Waystar Payments
+https://remits.zirmed.com/Payments_NoDX.aspx?appid=13 2/2
+==     FIDELIS CARE NEW YORK - MEDICARE ADVANTAGE
+YERTLE OPERATIONS LLC DBA FISHKI FPE: C             FIDELIS CARE NEW YORK - MEDICARE ADVANTAGE
+22 ROBERT R KASIN WAY            PAID: 03/08/24     25-01 JACKSON AVE
+BEACON NY 125081559              TOB: 322           LONG ISLAND CITY NY 11101
+NPI: 1841728664                  FTN: 814603469     TE: 
+CLM#: 46436425                               CHECK/EFT: 24068B1000072180
+                                             CHECK AMT: 98.00
+----------------------------------------------------------------------------------
+PATIENT: MCCARTHY, WENDY                             PCN: 46436425
+MID: 74391644600                 SVC FROM: 01/23/24  MRN: 9002
+CLAIM STAT: 22                       THRU: 01/31/24  ICN: 038865106200
+COR MID: 
+----------------------------------------------------------------------------------
+CHARGES:                       PAYMENT DATA:      =DRG      0.000=REIM RATE
+        -250.00=REPORTED           0.00=DRG AMOUNT          0.00=MSP PRIM PAYER
+        -250.00=NCVD/DENIED        0.00=DRG/OPER/CAP        0.00=PROF COMPONENT
+        0.00=CLAIM ADJS            0.00=LINE ADJ AMT        0.00=ESRD AMOUNT
+        0.00=COVERED               0.00=OUTLIER             0.00=PROC CD AMOUNT
+DAYS/VISITS:                       0.00=CAP OUTLIER         0.00=ALLOW/REIM
+        =COST REPT                 0.00=CASH DEDUCT         0.00=SEQUESTRATN
+        0=COVD/UTIL                0.00=BLOOD DEDUCT        0.00=INTEREST
+        0=NON-COVERED              0.00=COINSURANCE         0.00=CONTRACT ADJ
+        0=COVD VISITS              0.00=PAT REFUND          0.00=PER DIEM AMT
+        0=NCOV VISITS              0.00=PBP REDUCT          0.00=PA REDUCT
+                                   0.00=DISC PEN AMT        0.00=NET REIM AMT
+----------------------------------------------------------------------------------
+ADJ REASON CODES:  
+REV   DATE   HCPCS  APC/HIPPS  MODS      QTY      CHARGES  ALLOW/REIM  GC  RSN       AMOUNT  REMARK CODES
+ LICN                    HCPI
+SVC Desc
+0023  01/23  1AA11                         0         0.00        0.00              
+7804796165Z1                                                         
+                                                                     
+0421  01/30  S9131                         0      -250.00        0.00  CO   96      -250.00          N381
+2                                                                    
+                                                                     
+----------------------------------------------------------------------------------
+GLOSSARY
+CO    Contractual obligations.  The patient may not be billed for this amount 
+N381  Alert: Consult our contractual agreement for restrictions/billing/payment information related to these 
+      charges. 
+96    Non-covered charge(s). At least one Remark Code must be provided (may be comprised of either the NCPDP 
+      Reject Reason Code, or Remittance Advice Remark Code that is not an ALERT.) Note: Refer to the 835 
+      Healthcare Policy Identification Segment (loop 2110 Service Payment Information REF), if present. 
+----------------------------------------------------------------------------------

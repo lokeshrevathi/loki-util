@@ -1,0 +1,1907 @@
+  LOGIN_PAGE_NOT_FOUND_ERROR:
+    code: E5.SYSTEM.MODULE.E0001
+    message: Login page not found error.
+
+  USERNAME_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0002
+    message: Username field not attached.
+
+  USERNAME_FIELD_NOT_A_TEXTBOX:
+    code: E5.SYSTEM.MODULE.E0003
+    message: Username field not a textbox.
+
+  USERNAME_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0004
+    message: Username field not visible.
+
+  USERNAME_FIELD_NOT_EDITABLE:
+    code: E5.SYSTEM.MODULE.E0005
+    message: Username field not editable.
+
+  USERNAME_FIELD_VALUE_NOT_POPULATED:
+    code: E5.SYSTEM.MODULE.E0006
+    message: Username field value not populated.
+
+  UNABLE_TO_ENTER_SECOND_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E0007
+    message: Unable to enter second discharge eob date in election of benefits page.
+
+  UNKNOWN_ERROR_OCCURRED:
+    code: E5.SYSTEM.MODULE.E0007
+    message: Unknown error occurred.
+
+  PASSWORD_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0009
+    message: Password field not attached.
+
+  PASSWORD_FIELD_NOT_A_PASSWORD_TEXTBOX:
+    code: E5.SYSTEM.MODULE.E0010
+    message: Password field not a password textbox.
+
+  PASSWORD_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0011
+    message: Password field not visible.
+
+  PASSWORD_FIELD_NOT_EDITABLE:
+    code: E5.SYSTEM.MODULE.E0012
+    message: Password field not editable.
+
+  LOGIN_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0015
+    message: Login button not attached.
+
+  LOGIN_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0016
+    message: Login button not a button.
+
+  LOGIN_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0017
+    message: Login button not visible.
+
+  LOGIN_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0018
+    message: Login button not enabled.
+
+  INVALID_CREDENTIAL:
+    code: E5.SYSTEM.MODULE.E0020
+    message: Invalid credential.
+
+  DETECT_CITRIX_POPUP_NOT_FOUND:
+    code: E5.SYSTEM.MODULE.E0021
+    message: Detect citrix popup not found.
+
+  DETECT_CITRIX_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0022
+    message: Detect citrix button not attached.
+
+  DETECT_CITRIX_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0023
+    message: Detect citrix button not visible.
+
+  DETECT_CITRIX_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0024
+    message: Detect citrix button not enabled.
+
+  DETECT_CITRIX_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0025
+    message: Detect citrix button not a button.
+
+  DETECT_CITRIX_PAGE_NOT_FOUND:
+    code: E5.SYSTEM.MODULE.E0026
+    message: Detect citrix page not found.
+
+  OPEN_CITRIX_POPUP_NOT_FOUND:
+    code: E5.SYSTEM.MODULE.E0028
+    message: Open citrix popup not found.
+
+  UNABLE_TO_CLICK_CITRIX_POPUP_BUTTON:
+    code: E5.SYSTEM.MODULE.E0029
+    message: Unable to click citrix popup button.
+
+  DATABASE_PAGE_NOT_FOUND:
+    code: E5.SYSTEM.MODULE.E0031
+    message: Database page not found.
+
+  ALREADY_INSTALLED_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0032
+    message: Already installed button not attached.
+
+  ALREADY_INSTALLED_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0033
+    message: Already installed button not visible.
+
+  ALREADY_INSTALLED_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0034
+    message: Already installed button not enabled.
+
+  ALREADY_INSTALLED_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0035
+    message: Already installed button not a button.
+
+  DATABASE_ICON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0038
+    message: Database icon not attached.
+
+  DATABASE_ICON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0039
+    message: Database icon not visible.
+
+  DATABASE_ICON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0040
+    message: Database icon not enabled.
+
+  DATABASE_ICON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0041
+    message: Database icon not a button.
+
+  DATABASE_OPEN_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0043
+    message: Database open not attached.
+
+  DATABASE_OPEN_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0044
+    message: Database open not visible.
+
+  DATABASE_OPEN_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0045
+    message: Database open not enabled.
+
+  DATABASE_OPEN_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0046
+    message: Database open not a button.
+
+  SEARCH_ICON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0049
+    message: Search icon not attached.
+
+  SEARCH_ICON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0050
+    message: Search icon not visible.
+
+  SEARCH_ICON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0051
+    message: Search icon not enabled.
+
+  SEARCH_ICON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0052
+    message: Search icon not a button.
+
+  DATABASE_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0055
+    message: Database field not attached.
+
+  DATABASE_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0056
+    message: Database field not visible.
+
+  DATABASE_FIELD_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0057
+    message: Database field not enabled.
+
+  DATABASE_FIELD_VALUE_NOT_POPULATED:
+    code: E5.SYSTEM.MODULE.E0058
+    message: Database field value not populated.
+
+  DATABASE_FIELD_NOT_A_TEXTBOX:
+    code: E5.SYSTEM.MODULE.E0059
+    message: Database field not a textbox.
+
+  SETTINGS_ICON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0062
+    message: Settings icon not attached.
+
+  SETTINGS_ICON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0063
+    message: Settings icon not visible.
+
+  SETTINGS_ICON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0064
+    message: Settings icon not enabled.
+
+  SETTINGS_ICON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0065
+    message: Settings icon not a button.
+
+  LOGOUT_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0068
+    message: Logout button not attached.
+
+  LOGOUT_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0069
+    message: Logout button not visible.
+
+  LOGOUT_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0070
+    message: Logout button not enabled.
+
+  LOGOUT_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0071
+    message: Logout button not a button.
+
+  UNABLE_TO_CLICK_CITRIX_ACCEPT_BUTTON:
+    code: E5.SYSTEM.MODULE.E0074
+    message: Unable to click citrix accept button.
+
+  UNABLE_TO_CLICK_PERMIT_ALL_ACCESS:
+    code: E5.SYSTEM.MODULE.E0075
+    message: Unable to click permit all access.
+
+  UNABLE_TO_ACCESS_CLINICAL_INPUT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0076
+    message: Unable to access clinical input window.
+
+  UNABLE_TO_FIND_SEARCH_BY_TEXTBOX_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0077
+    message: Unable to find search by textbox in clinical input.
+
+  UNABLE_TO_ENTER_SEARCH_BY_VALUE_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0078
+    message: Unable to enter search by value in clinical input.
+
+  VALUES_ARE_NOT_POPULATED_IN_SEARCH_BY_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0079
+    message: Values are not populated in search by in clinical input.
+
+  UNABLE_TO_FIND_SEARCH_FOR_TEXTBOX_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0082
+    message: Unable to find search for textbox in clinical input.
+
+  UNABLE_TO_ENTER_SEARCH_FOR_VALUE_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0083
+    message: Unable to enter search for value in clinical input.
+
+  VALUES_ARE_NOT_POPULATED_IN_SEARCH_FOR_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0084
+    message: Values are not populated in search for in clinical input.
+
+  UNABLE_TO_OPEN_MULTI_SELECT_DROPDOWN_IN_EPISODE_STATUS_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0087
+    message: Unable to open multi select dropdown in episode status in clinical input.
+
+  CHECKBOX_ITEMS_ARE_NOT_FOUND_IN_EPISODE_STATUS_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0088
+    message: Checkbox items are not found in episode status in clinical input.
+
+  UNABLE_TO_CHECK_SELECT_ALL_IN_EPISODE_STATUS_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0089
+    message: Unable to check select all in episode status in clinical input.
+
+  UNABLE_TO_SELECT_CHECKBOX_ITEM_IN_EPISODE_STATUS_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0090
+    message: Unable to select checkbox item in episode status in clinical input.
+
+  FAILED_TO_POPULATE_VALUE_IN_EPISODE_STATUS_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0091
+    message: Failed to populate value in episode status in clinical input.
+
+  LOAD_BUTTON_NOT_FOUND_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0094
+    message: Load button not found in clinical input.
+
+  UNABLE_TO_CLICK_LOAD_BUTTON_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0095
+    message: Unable to click load button in clinical input.
+
+  MEDICAL_RECORD_BUTTON_NOT_FOUND_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0098
+    message: Medical record button not found in clinical input.
+
+  FAILED_TO_GENERATE_MEDICAL_RECORD_BUTTON_IMAGE_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0099
+    message: Failed to generate medical record button image in clinical input.
+
+  UNABLE_TO_CLICK_MEDICAL_RECORD_BUTTON_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0100
+    message: Unable to click medical record button in clinical input.
+
+  UNABLE_TO_FIND_FIRST_RECORD_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0107
+    message: Unable to find first record in clinical input.
+
+  UNABLE_TO_SELECT_FIRST_RECORD_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0108
+    message: Unable to select first record in clinical input.
+
+  RECORD_NOT_FOUND_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0109
+    message: Record not found in clinical input.
+
+  UNABLE_TO_ACCESS_COORDINATION_NOTES_FOR_WINDOW:
+    code: E5.SYSTEM.MODULE.E0110
+    message: Unable to access coordination notes for window.
+
+  UNABLE_TO_CLICK_ADD_BUTTON_COORDINATION_NOTES_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0111
+    message: Unable to click add button coordination notes for screen.
+
+  ADD_BUTTON_NOT_VISIBLE_IN_COORDINATION_NOTES_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0112
+    message: Add button not visible in coordination notes for screen.
+
+  UNABLE_TO_ACCESS_COORDINATION_NOTE_FOR_WINDOW:
+    code: E5.SYSTEM.MODULE.E0114
+    message: Unable to access coordination note for window.
+
+  NOTE_TYPE_TEXTBOX_NOT_AVAILABLE_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0115
+    message: Note type textbox not available in coordination note for screen.
+
+  UNABLE_TO_ENTER_VALUE_IN_NOTE_TYPE_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0116
+    message: Unable to enter value in note type in coordination note for screen.
+
+  VALUE_NOT_POPULATED_IN_NOTE_TYPE_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0117
+    message: Value not populated in note type in coordination note for screen.
+
+  NOTE_DETAILS_TEXTBOX_NOT_AVAILABLE_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0120
+    message: Note details textbox not available in coordination note for screen.
+
+  UNABLE_TO_ENTER_VALUE_IN_NOTE_DETAILS_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0121
+    message: Unable to enter value in note details in coordination note for screen.
+
+  VALUE_NOT_POPULATED_IN_NOTE_DETAILS_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0122
+    message: Value not populated in note details in coordination note for screen.
+
+  SAVE_AND_CLOSE_BUTTON_NOT_VISIBLE_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0125
+    message: Save and close button not visible in coordination note for screen.
+
+  UNABLE_TO_CLICK_SAVE_AND_CLOSE_BUTTON_IN_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0126
+    message: Unable to click save and close button in coordination note for screen.
+
+  UNABLE_TO_ACCESS_EDIT_REFERRAL_WINDOW:
+    code: E5.SYSTEM.MODULE.E0128
+    message: Unable to access edit referral window.
+
+  PRINT_PATIENT_INFO_BUTTON_NOT_FOUND_IN_EDIT_REFERAL_PAGE:
+    code: E5.SYSTEM.MODULE.E0129
+    message: Print patient info button not found in edit referal page.
+
+  UNABLE_TO_CLICK_PRINT_PATIENT_INFO_BUTTON_IN_EDIT_REFERAL_PAGE:
+    code: E5.SYSTEM.MODULE.E0130
+    message: Unable to click print patient info button in edit referal page.
+
+  INCLUDE_COORDINATION_NOTES_POPUP_NOT_FOUND_IN_EDIT_REFERAL_PAGE:
+    code: E5.SYSTEM.MODULE.E0132
+    message: Include coordination notes popup not found in edit referal page.
+
+  UNABLE_TO_CLICK_PRINT_PATIENT_YES_POPUP_IN_EDIT_REFERAL_PAGE:
+    code: E5.SYSTEM.MODULE.E0133
+    message: Unable to click print patient yes popup in edit referal page.
+
+  INCLUDE_COORDINATION_NOTES_POPUP_YES_BUTTON_NOT_FOUND_IN_EDIT_REFERAL_PAGE:
+    code: E5.SYSTEM.MODULE.E0134
+    message: Include coordination notes popup yes button not found in edit referal page.
+
+  UNABLE_TO_OPEN_PATIENT_INFORMATION_REPORT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0136
+    message: Unable to open patient information report window.
+
+  UNABLE_TO_CLICK_PRINT_PATIENT_NO_POPUP_IN_EDIT_REFERAL_PAGE:
+    code: E5.SYSTEM.MODULE.E0138
+    message: Unable to click print patient no popup in edit referal page.
+
+  INCLUDE_COORDINATION_NOTES_POPUP_NO_BUTTON_NOT_FOUND_IN_EDIT_REFERAL_PAGE:
+    code: E5.SYSTEM.MODULE.E0139
+    message: Include coordination notes popup no button not found in edit referal page.
+
+  UNABLE_TO_ACCESS_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0141
+    message: Unable to access maintain physician window.
+
+  UNABLE_TO_ACCESS_SEARCHBY_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0142
+    message: Unable to access searchby field in maintain physician window.
+
+  UNABLE_TO_SELECT_SEARCHBY_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0143
+    message: Unable to select searchby field in maintain physician window.
+
+  SELECTED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE:
+    code: E5.SYSTEM.MODULE.E0144
+    message: Selected text is not equal to input value.
+
+  UNABLE_TO_ACCESS_SEARCHFOR_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0147
+    message: Unable to access searchfor field in maintain physician window.
+
+  UNABLE_TO_SELECT_SEARCHFOR_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0148
+    message: Unable to select searchfor field in maintain physician window.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE:
+    code: E5.SYSTEM.MODULE.E0149
+    message: Entered text is not equal to input value.
+
+  UNABLE_TO_FIND_PRINT_PHYSICIAN_REPORT_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0152
+    message: Unable to find print physician report in maintain physician window.
+
+  UNABLE_TO_CLICK_PRINT_PHYSICIAN_REPORT_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0153
+    message: Unable to click print physician report in maintain physician window.
+
+  UNABLE_TO_LOCATE_GRID_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0156
+    message: Unable to locate grid field in maintain physician window.
+
+  UNABLE_TO_EXPORT_GRID_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0157
+    message: Unable to export grid in maintain physician window.
+
+  UNABLE_TO_LOCATE_EDIT_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0160
+    message: Unable to locate edit field in maintain physician window.
+
+  UNABLE_TO_CLICK_EDIT_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0161
+    message: Unable to click edit field in maintain physician window.
+
+  UNABLE_TO_ACCESS_PHYSICIAN_RECORD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0164
+    message: Unable to access physician record in maintain physician window.
+
+  NO_RECORD_FOUND_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0165
+    message: No record found in maintain physician window.
+
+  UNABLE_TO_RESIZE_REGION_FOR_PHYSICIAN_RECORD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0166
+    message: Unable to resize region for physician record in maintain physician window.
+
+  UNABLE_TO_FIND_PHYSICIAN_RECORD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0169
+    message: Unable to find physician record in maintain physician window.
+
+  UNABLE_TO_CLICK_PHYSICIAN_RECORD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0170
+    message: Unable to click physician record in maintain physician window.
+
+  UNABLE_TO_ACCESS_MAINTAIN_EDIT_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0172
+    message: Unable to access maintain edit physician window.
+
+  UNABLE_TO_LOCATE_MEDICAL_DIRECTORID_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0173
+    message: Unable to locate medical directorid field in maintain physician window.
+
+  UNABLE_TO_EXTRACT_MEDICAL_DIRECTORID_FIELD_IN_MAINTAIN_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0174
+    message: Unable to extract medical directorid field in maintain physician window.
+
+  UNABLE_TO_CLOSE_EDIT_PHYSICIAN_PAGE:
+    code: E5.SYSTEM.MODULE.E0175
+    message: Unable to close edit physician page.
+
+  HCHB_MAIN_PAGE_NOT_AVAILABLE:
+    code: E5.SYSTEM.MODULE.E0177
+    message: Hchb main page not available.
+
+  MAIN_MENU_TAB_NOT_VISIBLE_IN_MAIN_PAGE:
+    code: E5.SYSTEM.MODULE.E0178
+    message: Main menu tab not visible in main page.
+
+  UNABLE_TO_CLICK_MAIN_MENU_TAB_IN_MAIN_PAGE:
+    code: E5.SYSTEM.MODULE.E0179
+    message: Unable to click main menu tab in main page.
+
+  SUB_MENU_NOT_VISIBLE_IN_MAIN_PAGE:
+    code: E5.SYSTEM.MODULE.E0182
+    message: Sub menu not visible in main page.
+
+  UNABLE_TO_CLICK_SUB_MENU_IN_MAIN_PAGE:
+    code: E5.SYSTEM.MODULE.E0183
+    message: Unable to click sub menu in main page.
+
+  SUB_MENU_ACTION_NOT_VISIBLE_IN_MAIN_PAGE:
+    code: E5.SYSTEM.MODULE.E0186
+    message: Sub menu action not visible in main page.
+
+  UNABLE_TO_CLICK_SUB_MENU_ACTION_IN_MAIN_PAGE:
+    code: E5.SYSTEM.MODULE.E0187
+    message: Unable to click sub menu action in main page.
+
+  REPORT_PAGE_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0189
+    message: Report page not visible.
+
+  DOWNLOAD_BUTTON_NOT_VISIBLE_IN_REPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0190
+    message: Download button not visible in report page.
+
+  UNABLE_TO_ACCESS_DOWNLOAD_BUTTON_IN_REPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0191
+    message: Unable to access download button in report page.
+
+  DOWNLOAD_FORMAT_NOT_VISIBLE_IN_REPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0192
+    message: Download format not visible in report page.
+
+  UNABLE_TO_ACCESS_DOWNLOAD_FORMAT_IN_REPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0193
+    message: Unable to access download format in report page.
+
+  UNABLE_TO_ACCESS_FAX_BUTTON_IN_REPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0195
+    message: Unable to access fax button in report page.
+
+  FAX_BUTTON_NOT_VISIBLE_IN_REPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0196
+    message: Fax button not visible in report page.
+
+  UNABLE_TO_CLOSE_REPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0198
+    message: Unable to close report page.
+
+  SEND_FAX_REPORT_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0199
+    message: Send fax report not visible.
+
+  FAX_NUMBER_TEXTBOX_NOT_VISIBLE_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0200
+    message: Fax number textbox not visible in send fax page.
+
+  UNABLE_TO_ENTER_TO_FAX_NUMBER_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0201
+    message: Unable to enter to fax number in send fax page.
+
+  TO_ADDRESS_TEXTBOX_NOT_VISIBLE_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0204
+    message: To address textbox not visible in send fax page.
+
+  UNABLE_TO_ENTER_TO_ADDRESS_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0205
+    message: Unable to enter to address in send fax page.
+
+  TO_ADDRESS_VALUE_NOT_POPULATED:
+    code: E5.SYSTEM.MODULE.E0206
+    message: To address value not populated.
+
+  UNABLE_TO_ENTER_COMMENTS_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0209
+    message: Unable to enter comments in send fax page.
+
+  COMMENTS_TEXTBOX_NOT_VISIBLE_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0210
+    message: Comments textbox not visible in send fax page.
+
+  FAX_BUTTON_NOT_VISIBLE_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0213
+    message: Fax button not visible in send fax page.
+
+  UNABLE_TO_ACCESS_SEND_FAX_BUTTON_IN_SEND_FAX_PAGE:
+    code: E5.SYSTEM.MODULE.E0214
+    message: Unable to access send fax button in send fax page.
+
+  FAX_REQUIRED_POPUP_POPULATED:
+    code: E5.SYSTEM.MODULE.E0215
+    message: Fax required popup populated.
+
+  UNABLE_TO_ACTIVATE_SAVE_AS_WINDOW:
+    code: E5.SYSTEM.MODULE.E0217
+    message: Unable to activate save as window.
+
+  SET_TEXT_FAILED:
+    code: E5.SYSTEM.MODULE.E0218
+    message: Set text failed.
+
+  TEXT_IS_NOT_EQUAL:
+    code: E5.SYSTEM.MODULE.E0219
+    message: Text is not equal.
+
+  UNABLE_TO_ENTER_FILEPATH_IN_SAVE_AS_WINDOW:
+    code: E5.SYSTEM.MODULE.E0220
+    message: Unable to enter filepath in save as window.
+
+  SAVE_AS_WINDOW_NOT_CLOSED_AFTER_SAVE:
+    code: E5.SYSTEM.MODULE.E0221
+    message: Save as window not closed after save.
+
+  UNABLE_TO_ACCESS_WORKFLOW_CONSOLE_WINDOW:
+    code: E5.SYSTEM.MODULE.E0222
+    message: Unable to access workflow console window.
+
+  UNABLE_TO_OPEN_SERVICE_LINE_DROPDOWN_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0223
+    message: Unable to open service line dropdown in workflow console.
+
+  UNABLE_TO_CHECK_SERVICE_LINE_OPTION_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0224
+    message: Unable to check service line option in workflow console.
+
+  ITEMS_NOT_VISIBLE_IN_SERVICE_LINE_OPTION_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0225
+    message: Items not visible in service line option in workflow console.
+
+  SELECT_BRANCHES_SEARCH_BUTTON_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0228
+    message: Select branches search button not visible in workflow console.
+
+  UNABLE_TO_CLICK_BRANCHES_SEARCH_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0229
+    message: Unable to click branches search button in workflow console.
+
+  UNABLE_TO_LOCATE_BRANCHES_SEARCH_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0230
+    message: Unable to locate branches search button in workflow console.
+
+  SELECT_EVENTS_SEARCH_BUTTON_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0233
+    message: Select events search button not visible in workflow console.
+
+  UNABLE_TO_CLICK_EVENTS_SEARCH_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0234
+    message: Unable to click events search button in workflow console.
+
+  UNABLE_TO_LOCATE_EVENTS_SEARCH_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0235
+    message: Unable to locate events search button in workflow console.
+
+  SELECT_STAGES_SEARCH_BUTTON_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0238
+    message: Select stages search button not visible in workflow console.
+
+  UNABLE_TO_CLICK_STAGES_SEARCH_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0239
+    message: Unable to click stages search button in workflow console.
+
+  UNABLE_TO_LOCATE_STAGES_SEARCH_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0240
+    message: Unable to locate stages search button in workflow console.
+
+  UNABLE_TO_LOCATE_STAGE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0249
+    message: Unable to locate stage in workflow console.
+
+  TEXTBOX_NOT_VISIBLE_FOR_SET_STAGE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0250
+    message: Textbox not visible for set stage in workflow console.
+
+  UNABLE_TO_ENTER_VALUE_FOR_SET_STAGE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0251
+    message: Unable to enter value for set stage in workflow console.
+
+  VALUE_NOT_POPULATED_FOR_SET_STAGE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0252
+    message: Value not populated for set stage in workflow console.
+
+  LOAD_BUTTON_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0255
+    message: Load button not visible in workflow console.
+
+  UNABLE_TO_PERFORM_LOAD_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0256
+    message: Unable to perform load in workflow console.
+
+  UNABLE_TO_CLICK_EXPORT_GRID_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0259
+    message: Unable to click export grid button in workflow console.
+
+  UNABLE_TO_LOCATE_EXPORT_GRID_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0260
+    message: Unable to locate export grid button in workflow console.
+
+  EXPORT_GRID_BUTTON_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0261
+    message: Export grid button not visible in workflow console.
+
+  GENERATE_IMAGE_FAILED_FOR_CLICK_PATIENT_NAME_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0265
+    message: Generate image failed for click patient name in workflow console.
+
+  UNABLE_TO_LOCATE_PATIENT_NAME_FIELD_IN_WORKFLOW_WINDOW:
+    code: E5.SYSTEM.MODULE.E0266
+    message: Unable to locate patient name field in workflow window.
+
+  UNABLE_TO_CLICK_PATIENT_NAME_FIELD_IN_WORKFLOW_WINDOW:
+    code: E5.SYSTEM.MODULE.E0267
+    message: Unable to click patient name field in workflow window.
+
+  UNABLE_TO_LOCATE_ARRIVED_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0270
+    message: Unable to locate arrived in workflow console.
+
+  TEXTBOX_NOT_VISIBLE_FOR_SET_ARRIVED_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0271
+    message: Textbox not visible for set arrived in workflow console.
+
+  UNABLE_TO_ENTER_VALUE_FOR_SET_ARRIVED_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0272
+    message: Unable to enter value for set arrived in workflow console.
+
+  VALUE_NOT_POPULATED_FOR_SET_ARRIVED_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0273
+    message: Value not populated for set arrived in workflow console.
+
+  UNABLE_TO_LOCATE_MRN_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0276
+    message: Unable to locate mrn in workflow console.
+
+  TEXTBOX_NOT_VISIBLE_FOR_SET_MRN_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0277
+    message: Textbox not visible for set mrn in workflow console.
+
+  UNABLE_TO_ENTER_VALUE_FOR_SET_MRN_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0278
+    message: Unable to enter value for set mrn in workflow console.
+
+  VALUE_NOT_POPULATED_FOR_SET_MRN_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0279
+    message: Value not populated for set mrn in workflow console.
+
+  UNABLE_TO_LOCATE_EPISODEID_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0282
+    message: Unable to locate episodeid in workflow console.
+
+  TEXTBOX_NOT_VISIBLE_FOR_SET_EPISODE_ID_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0283
+    message: Textbox not visible for set episode id in workflow console.
+
+  UNABLE_TO_ENTER_VALUE_FOR_SET_EPISODE_ID_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0284
+    message: Unable to enter value for set episode id in workflow console.
+
+  VALUE_NOT_POPULATED_FOR_SET_EPISODE_ID_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0285
+    message: Value not populated for set episode id in workflow console.
+
+  CLEAR_GRID_FILTER_BUTTON_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0288
+    message: Clear grid filter button not visible in workflow console.
+
+  UNABLE_TO_CLICK_GRID_FILTER_BUTTON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0289
+    message: Unable to click grid filter button in workflow console.
+
+  FIRST_RECORD_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0292
+    message: First record not visible in workflow console.
+
+  UNABLE_TO_CLICK_FIRST_RECORD_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0293
+    message: Unable to click first record in workflow console.
+
+  FIRST_RECORD_CLICK_POST_CONDITION_IMAGE_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0294
+    message: First record click post condition image not visible in workflow console.
+
+  UNABLE_TO_LOCATE_PATIENT_RECORD_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0298
+    message: Unable to locate patient record in workflow console.
+
+  ROW_LIMIT_POPUP_STILL_EXIST_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0300
+    message: Row limit popup still exist in workflow console.
+
+  UNABLE_TO_FIND_COODINATION_NOTES_SUB_BUTTON_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0301
+    message: Unable to find coodination notes sub button in clinical input.
+
+  UNABLE_TO_CLICK_COODINATION_NOTES_SUB_BUTTON_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0302
+    message: Unable to click coodination notes sub button in clinical input.
+
+  UNABLE_TO_FIND_PATIENT_INFORMATION_SUB_BUTTON_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0303
+    message: Unable to find patient information sub button in clinical input.
+
+  UNABLE_TO_CLICK_PATIENT_INFORMATION_SUB_BUTTON_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0304
+    message: Unable to click patient information sub button in clinical input.
+
+  UNABLE_TO_LOCATE_PATIENTNAME_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0305
+    message: Unable to locate patientname in workflow console.
+
+  TEXTBOX_NOT_VISIBLE_FOR_SET_PATIENTNAME_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0306
+    message: Textbox not visible for set patientname in workflow console.
+
+  UNABLE_TO_ENTER_VALUE_FOR_SET_PATIENTNAME_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0307
+    message: Unable to enter value for set patientname in workflow console.
+
+  VALUE_NOT_POPULATED_FOR_SET_PATIENTNAME_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0308
+    message: Value not populated for set patientname in workflow console.
+
+  FAILED_TO_FIND_THE_RECORD_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0309
+    message: Failed to find the record in workflow console.
+
+  UNABLE_TO_ACCESS_SELECTION_FILTER_WINDOW:
+    code: E5.SYSTEM.MODULE.E0310
+    message: Unable to access selection filter window.
+
+  SEARCH_FOR_TEXTBOX_NOT_FOUND_IN_SELECTION_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0311
+    message: Search for textbox not found in selection filter page.
+
+  UNABLE_TO_ENTER_VALUE_IN_SEARCH_FOR_IN_SELECTION_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0312
+    message: Unable to enter value in search for in selection filter page.
+
+  SELECT_ALL_CHECKBOX_IS_ALREADY_CHECKED_IN_SELECTION_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0313
+    message: Select all checkbox is already checked in selection filter page.
+
+  UNABLE_TO_CHECK_SELECT_ALL_CHECKBOX_IN_SELECT_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0314
+    message: Unable to check select all checkbox in select filter page.
+
+  UNABLE_TO_CHECK_CHECKBOX_IN_SELECT_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0315
+    message: Unable to check checkbox in select filter page.
+
+  CHECK_ITEM_NOT_VISIBLE_IN_SELECT_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0316
+    message: Check item not visible in select filter page.
+
+  APPLY_SELECTION_BUTTON_NOT_FOUND_IN_SELECTION_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0317
+    message: Apply selection button not found in selection filter page.
+
+  UNABLE_TO_CLICK_APPLY_SELECTION_BUTTON_IN_SELECTION_FILTER_PAGE:
+    code: E5.SYSTEM.MODULE.E0318
+    message: Unable to click apply selection button in selection filter page.
+
+  UNABLE_TO_ACCESS_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_WINDOW:
+    code: E5.SYSTEM.MODULE.E0319
+    message: Unable to access process appropriate summary to physician for window.
+
+  UNABLE_TO_CLICK_REVIEW_EPISODE_SUMMARY_REPORT_BUTTON_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0320
+    message: Unable to click review episode summary report button in process appropriate summary to physician for page.
+
+  REVIEW_EPISODE_SUMMARY_REPORT_BUTTON_NOT_FOUND_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0321
+    message: Review episode summary report button not found in process appropriate summary to physician for page.
+
+  UNABLE_TO_ACCESS_EPISODE_SUMMARY_REPORT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0322
+    message: Unable to access episode summary report window.
+
+  UNABLE_TO_CLICK_REVIEW_EPISODE_DETAIL_REPORT_BUTTON_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0325
+    message: Unable to click review episode detail report button in process appropriate summary to physician for page.
+
+  REVIEW_EPISODE_DETAIL_REPORT_BUTTON_NOT_FOUND_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0326
+    message: Review episode detail report button not found in process appropriate summary to physician for page.
+
+  UNABLE_TO_ACCESS_EPISODE_DETAIL_REPORT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0327
+    message: Unable to access episode detail report window.
+
+  UNABLE_TO_CLICK_REVIEW_DISCHARGE_TRANSFER_SUMMARY_REPORT_BUTTON_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0330
+    message: Unable to click review discharge transfer summary report button in process appropriate summary to physician for page.
+
+  REVIEW_DISCHARGE_TRANSFER_SUMMARY_REPORT_BUTTON_NOT_FOUND_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0331
+    message: Review discharge transfer summary report button not found in process appropriate summary to physician for page.
+
+  UNABLE_TO_ACCESS_DISCHARGE_TRANSFER SUMMARY REPORT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0332
+    message: Unable to access discharge transfer summary report window.
+
+  UNABLE_TO_CLICK_STAGE_COMPLETED_BUTTON_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0335
+    message: Unable to click stage completed button in process appropriate summary to physician for page.
+
+  STAGE_COMPLETED_BUTTON_NOT_FOUND_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0336
+    message: Stage completed button not found in process appropriate summary to physician for page.
+
+  UNABLE_TO_STAGE_COMPLETE_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0337
+    message: Unable to stage complete in process appropriate summary to physician for page.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0340
+    message: Unable to click cancel button in process appropriate summary to physician for page.
+
+  CANCEL_BUTTON_NOT_FOUND_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0341
+    message: Cancel button not found in process appropriate summary to physician for page.
+
+  UNABLE_TO_CANCEL_IN_PROCESS_APPROPRIATE_SUMMARY_TO_PHYSICIAN_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0342
+    message: Unable to cancel in process appropriate summary to physician for page.
+
+  UNABLE_TO_ACCESS_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_WINDOW:
+    code: E5.SYSTEM.MODULE.E0344
+    message: Unable to access faxepisode or discharge transfer summary report to hospital for window.
+
+  UNABLE_TO_CLICK_VIEW_EPISODE_SUMMARY_REPORT_BUTTON_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0345
+    message: Unable to click view episode summary report button in faxepisode or discharge transfer summary report to hospital for page.
+
+  VIEW_EPISODE_SUMMARY_REPORT_BUTTON_NOT_FOUND_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0346
+    message: View episode summary report button not found in faxepisode or discharge transfer summary report to hospital for page.
+
+  UNABLE_TO_CLICK_VIEW_DISCHARGE_TRANSFER_SUMMARY_REPORT_BUTTON_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0350
+    message: Unable to click view discharge transfer summary report button in faxepisode or discharge transfer summary report to hospital for page.
+
+  VIEW_DISCHARGE_TRANSFER_SUMMARY_REPORT_BUTTON_NOT_FOUND_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0351
+    message: View discharge transfer summary report button not found in faxepisode or discharge transfer summary report to hospital for page.
+
+  UNABLE_TO_CLICK_STAGE_COMPLETED_BUTTON_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0355
+    message: Unable to click stage completed button in faxepisode or discharge transfer summary report to hospital for page.
+
+  STAGE_COMPLETED_BUTTON_NOT_FOUND_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0356
+    message: Stage completed button not found in faxepisode or discharge transfer summary report to hospital for page.
+
+  UNABLE_TO_STAGE_COMPLETE_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0357
+    message: Unable to stage complete in faxepisode or discharge transfer summary report to hospital for page.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0360
+    message: Unable to click cancel button in faxepisode or discharge transfer summary report to hospital for page.
+
+  CANCEL_BUTTON_NOT_FOUND_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0361
+    message: Cancel button not found in faxepisode or discharge transfer summary report to hospital for page.
+
+  UNABLE_TO_CANCEL_IN_FAXEPISODE_OR_DISCHARGE_TRANSFER_SUMMARY_REPORT_TO_HOSPITAL_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E0362
+    message: Unable to cancel in faxepisode or discharge transfer summary report to hospital for page.
+
+  VALIDATION_FAILED_POPUP_OCCURRED_IN_COORINATION_NOTE_PAGE:
+    code: E5.SYSTEM.MODULE.E0363
+    message: Validation failed popup occurred in coorination note page.
+
+  VALIDATION_FAILED_POPUP_NOT_HANDLED_IN_COORDINATION_NOTE_PAGE:
+    code: E5.SYSTEM.MODULE.E0364
+    message: Validation failed popup not handled in coordination note page.
+
+  DUPLICATE_RECORD_FOUND_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0365
+    message: Duplicate record found in clinical input.
+
+  LOADER_STILL_PRESENT_IN_EXPORT_GRID:
+    code: E5.SYSTEM.MODULE.E0366
+    message: Loader still present in export grid.
+
+  EXPORT_COMPLETE_POPUP_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0367
+    message: Export complete popup not visible.
+
+  UNABLE_TO_CLOSE_EXPORT_GRID_POPUP:
+    code: E5.SYSTEM.MODULE.E0368
+    message: Unable to close export grid popup.
+
+  RECORDS_LOCKED_BY_OTHER_USER_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0369
+    message: Records locked by other user clinical input.
+
+  FILE_IS_NOT_DOWLOADED:
+    code: E5.SYSTEM.MODULE.E0370
+    message: File is not dowloaded.
+
+  UNABLE_TO_ACCESS_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0371
+    message: Unable to access maintain facility window.
+
+  UNABLE_TO_ACCESS_SEARCHBY_FIELD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0372
+    message: Unable to access searchby field in maintain facility window.
+
+  UNABLE_TO_SELECT_SEARCHBY_FIELD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0373
+    message: Unable to select searchby field in maintain facility window.
+
+  SELECTED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0374
+    message: Selected text is not equal to input value in maintain facility window.
+
+  UNABLE_TO_ACCESS_SEARCHFOR_FIELD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0376
+    message: Unable to access searchfor field in maintain facility window.
+
+  UNABLE_TO_SELECT_SEARCHFOR_FIELD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0377
+    message: Unable to select searchfor field in maintain facility window.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0378
+    message: Entered text is not equal to input value in maintain facility window.
+
+  UNABLE_TO_ACCESS_REVIEW_COORDINATION_NOTE_FOR_WINDOW:
+    code: E5.SYSTEM.MODULE.E0379
+    message: Unable to access review coordination note for window.
+
+  UNABLE_TO_FIND_PRINT_FACILITY_REPORT_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0380
+    message: Unable to find print facility report in maintain facility window.
+
+  UNABLE_TO_CLICK_PRINT_FACILITY_REPORT_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0381
+    message: Unable to click print facility report in maintain facility window.
+
+  UNABLE_TO_CLICK_ADD_FOLLOW_UP_COMMENTS_BUTTON_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0382
+    message: Unable to click add follow up comments button review coordination note for screen.
+
+  UNABLE_TO_ACCESS_FACILITY_RECORD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0383
+    message: Unable to access facility record in maintain facility window.
+
+  UNABLE_TO_LOCATE_FACILITY_RECORD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0384
+    message: Unable to locate facility record in maintain facility window.
+
+  UNABLE_TO_RESIZE_REGION_FOR_FACILITY_RECORD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0385
+    message: Unable to resize region for facility record in maintain facility window.
+
+  ADD_FOLLOW_UP_COMMENTS_BUTTON_NOT_VISIBLE_IN_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0386
+    message: Add follow up comments button not visible in review coordination note for screen.
+
+  UNABLE_TO_FIND_FACILITY_RECORD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0387
+    message: Unable to find facility record in maintain facility window.
+
+  UNABLE_TO_CLICK_FACILITY_RECORD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0388
+    message: Unable to click facility record in maintain facility window.
+
+  UNABLE_TO_ACCESS_ADD_FOLLOW_UP_COMMENTS_FOR_WINDOW:
+    code: E5.SYSTEM.MODULE.E0389
+    message: Unable to access add follow up comments for window.
+
+  UNABLE_TO_LOCATE_GRID_FIELD_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0390
+    message: Unable to locate grid field in maintain facility window.
+
+  UNABLE_TO_EXPORT_GRID_IN_MAINTAIN_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0391
+    message: Unable to export grid in maintain facility window.
+
+  FOLLOWUP_COMMENTS_TEXTBOX_NOT_AVAILABLE_IN_ADD_FOLLOWUP_COMMENTS_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0392
+    message: Followup comments textbox not available in add followup comments for screen.
+
+  UNABLE_TO_ENTER_VALUE_IN_FOLLOWUP_COMMENTSIN_ADD_FOLLOWUP_COMMENTS_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0393
+    message: Unable to enter value in followup commentsin add followup comments for screen.
+
+  VALUE_NOT_POPULATED_IN_FOLLOWUP_COMMENTS_IN_ADD_FOLLOWUP_COMMENTS_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0394
+    message: Value not populated in followup comments in add followup comments for screen.
+
+  SAVE_AND_CLOSE_BUTTON_NOT_VISIBLE_IN_ADD_FOLLOWUP_COMMENTS_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0395
+    message: Save and close button not visible in add followup comments for screen.
+
+  UNABLE_TO_CLICK_SAVE_AND_CLOSE_BUTTON_IN_ADD_FOLLOWUP_COMMENTS_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0396
+    message: Unable to click save and close button in add followup comments for screen.
+
+  CANCEL_BUTTON_NOT_VISIBLE_IN_ADD_FOLLOWUP_COMMENTS_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0397
+    message: Cancel button not visible in add followup comments for screen.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_IN_ADD_FOLLOWUP_COMMENTS_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0398
+    message: Unable to click cancel button in add followup comments for screen.
+
+  UNABLE_TO_LOCATE_NOTETYPE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0399
+    message: Unable to locate notetype in workflow console.
+
+  TEXTBOX_NOT_VISIBLE_FOR_SET_NOTETYPE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0400
+    message: Textbox not visible for set notetype in workflow console.
+
+  UNABLE_TO_ENTER_VALUE_FOR_SET_NOTETYPE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0401
+    message: Unable to enter value for set notetype in workflow console.
+
+  VALUE_NOT_POPULATED_FOR_SET_NOTETYPE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0402
+    message: Value not populated for set notetype in workflow console.
+
+  UNABLE_TO_LOCATE_NOTEDATE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0403
+    message: Unable to locate notedate in workflow console.
+
+  TEXTBOX_NOT_VISIBLE_FOR_SET_NOTEDATE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0404
+    message: Textbox not visible for set notedate in workflow console.
+
+  UNABLE_TO_ENTER_VALUE_FOR_SET_NOTEDATE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0405
+    message: Unable to enter value for set notedate in workflow console.
+
+  VALUE_NOT_POPULATED_FOR_SET_NOTEDATE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0406
+    message: Value not populated for set notedate in workflow console.
+
+  UNABLE_TO_FIND_CLEAR_ALL_BUTTON_SELECTION_FILTER_WINDOW:
+    code: E5.SYSTEM.MODULE.E0407
+    message: Unable to find clear all button selection filter window.
+
+  UNABLE_TO_CLICK_CLEAR_ALL_BUTTON_SELECTION_FILTER_WINDOW:
+    code: E5.SYSTEM.MODULE.E0408
+    message: Unable to click clear all button selection filter window.
+
+  UNABLE_TO_ACCESS_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0409
+    message: Unable to access send hospice order and poc update to facility.
+
+  UNABLE_TO_CLICK_NEW_ORDER_REPORT_BUTTON_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0410
+    message: Unable to click new order report button in send hospice order and poc update to facility.
+
+  NEW_ORDER_REPORT_BUTTON_NOT_FOUND_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0411
+    message: New order report button not found in send hospice order and poc update to facility.
+
+  UNABLE_TO_ACCESS_NEW_ORDER_REPORT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0412
+    message: Unable to access new order report window.
+
+  UNABLE_TO_CLICK_PRINT_HOSPICE_POC_UPDATE_BUTTON_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0415
+    message: Unable to click print hospice poc update button in send hospice order and poc update to facility.
+
+  PRINT_HOSPICE_POC_UPDATE_BUTTON_NOT_FOUND_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0416
+    message: Print hospice poc update button not found in send hospice order and poc update to facility.
+
+  UNABLE_TO_ACCESS_PRINT_HOSPICE_POC_UPDATE_WINDOW:
+    code: E5.SYSTEM.MODULE.E0417
+    message: Unable to access print hospice poc update window.
+
+  UNABLE_TO_CLICK_STAGE_COMPLETED_BUTTON_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0420
+    message: Unable to click stage completed button in send hospice order and poc update to facility.
+
+  STAGE_COMPLETED_BUTTON_NOT_FOUND_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0421
+    message: Stage completed button not found in send hospice order and poc update to facility.
+
+  UNABLE_TO_STAGE_COMPLETE_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0422
+    message: Unable to stage complete in send hospice order and poc update to facility.
+
+  PRINT_HOSPICE_POC_ORDER_BUTTON_NOT_FOUND_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0423
+    message: Print hospice poc order button not found in send hospice poc oredr to facility.
+
+  UNABLE_TO_CLICK_PRINT_HOSPICE_POC_ORDER_BUTTON_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0424
+    message: Unable to click print hospice poc order button in send hospice poc oredr to facility.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0425
+    message: Unable to click cancel button in send hospice order and poc update to facility.
+
+  CANCEL_BUTTON_NOT_FOUND_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0426
+    message: Cancel button not found in send hospice order and poc update to facility.
+
+  UNABLE_TO_CANCEL_IN_SEND_HOSPICE_ORDER_AND_POC_UPDATE_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0427
+    message: Unable to cancel in send hospice order and poc update to facility.
+
+  UNABLE_TO_ACCESS_PRINT_HOSPICE_POC_ORDER_FACILITY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0428
+    message: Unable to access print hospice poc order facility window.
+
+  UNABLE_TO_ACCESS_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0429
+    message: Unable to access send hospice poc oredr to facility.
+
+  STAGE_COMPLETED_BUTTON_NOT_FOUND_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0430
+    message: Stage completed button not found in send hospice poc oredr to facility.
+
+  UNABLE_TO_STAGE_COMPLETE_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0431
+    message: Unable to stage complete in send hospice poc oredr to facility.
+
+  UNABLE_TO_CLICK_STAGE_COMPLETED_BUTTON_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0432
+    message: Unable to click stage completed button in send hospice poc oredr to facility.
+
+  CANCEL_BUTTON_NOT_FOUND_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0433
+    message: Cancel button not found in send hospice poc oredr to facility.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0434
+    message: Unable to click cancel button in send hospice poc oredr to facility.
+
+  UNABLE_TO_CANCEL_IN_SEND_HOSPICE_POC_OREDR_TO_FACILITY:
+    code: E5.SYSTEM.MODULE.E0435
+    message: Unable to cancel in send hospice poc oredr to facility.
+
+  UNABLE_TO_CLICK_REVIEW_COORDINATION_NOTE_BUTTON_IN_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0436
+    message: Unable to click review coordination note button in review coordination note for screen.
+
+  REVIEW_COORDINATION_NOTE_BUTTON_NOT_VISIBLE_IN_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0437
+    message: Review coordination note button not visible in review coordination note for screen.
+
+  UNABLE_TO_ACCESS_REVIEW_COORDINATION_NOTE_REPORT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0438
+    message: Unable to access review coordination note report window.
+
+  UNABLE_TO_CLICK_NOTE_REVIEWED_BUTTON_IN_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0439
+    message: Unable to click note reviewed button in review coordination note for screen.
+
+  NOTE_REVIEWED_BUTTON_NOT_VISIBLE_IN_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0440
+    message: Note reviewed button not visible in review coordination note for screen.
+
+  CANCEL_BUTTON_NOT_VISIBLE_IN_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0441
+    message: Cancel button not visible in review coordination note for screen.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_REVIEW_COORDINATION_NOTE_FOR_SCREEN:
+    code: E5.SYSTEM.MODULE.E0442
+    message: Unable to click cancel button review coordination note for screen.
+
+  DEMOGRAPHICS_TAB_NOT_FOUND_IN_EDIT_REFERRAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0443
+    message: Demographics tab not found in edit referral screen.
+
+  UNABLE_TO_CLICK_DEMOGRAPHICS_TAB_IN_EDIT_REFERRAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0444
+    message: Unable to click demographics tab in edit referral screen.
+
+  UNABLE_TO_SWITCH_DEMOGRAPHICS_TAB_IN_EDIT_REFERRAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0445
+    message: Unable to switch demographics tab in edit referral screen.
+
+  SERVICE_LOCATION_NOT_FOUND_IN_EDIT_REFERRAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0446
+    message: Service location not found in edit referral screen.
+
+  SERVICE_LOCATION_EXPAND_ICON_NOT_FOUND_IN_EDIT_REFERRAL:
+    code: E5.SYSTEM.MODULE.E0447
+    message: Service location expand icon not found in edit referral.
+
+  UNABLE_TO_CLICK_SERVICE_LOCATION_EXPAND_ICON_IN_EDIT_REFERRAL:
+    code: E5.SYSTEM.MODULE.E0448
+    message: Unable to click service location expand icon in edit referral.
+
+  UNABLE_TO_CLICK_EXPORT_GRID_BUTTON_IN_EDIT_REFERAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0449
+    message: Unable to click export grid button in edit referal screen.
+
+  GENERATE_IMAGE_FAILED_FOR_CLICK_EXPORT_GRID_EDIT_REFERRAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0450
+    message: Generate image failed for click export grid edit referral screen.
+
+  UNABLE_TO_LOCATE_EXPORT_GRID_BUTTON_IN_EDIT_REFERAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0451
+    message: Unable to locate export grid button in edit referal screen.
+
+  FAILED_TO_FIND_COLLAPSE_ICON_IN_EDIT_REFERRAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0453
+    message: Failed to find collapse icon in edit referral screen.
+
+  UNABLE_TO_CLICK_COLLAPSE_ICON_IN_EDIT_REFERRAL_SCREEN:
+    code: E5.SYSTEM.MODULE.E0454
+    message: Unable to click collapse icon in edit referral screen.
+
+  PATIENT_STATUS_NOT_FOUND_IN_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0455
+    message: Patient status not found in in clinical input.
+
+  PATIENT_STATUS_NOT_A_RADIO_BUTTON_IN_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0456
+    message: Patient status not a radio button in in clinical input.
+
+  UNABLE_TO_SELECT_PATIENT_STATUS_IN_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E0457
+    message: Unable to select patient status in in clinical input.
+
+  UNABLE_TO_ACCESS_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_WINDOW:
+    code: E5.SYSTEM.MODULE.E0458
+    message: Unable to access process hospice poc update to primary window.
+
+  UNABLE_TO_CLICK_PRINT_THE_POC_UPDATE_BUTTON_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0459
+    message: Unable to click print the poc update button in process hospice poc update to primary physician window.
+
+  PRINT_THE_POC_UPDATE_BUTTON_NOT_FOUND_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0460
+    message: Print the poc update button not found in process hospice poc update to primary physician window.
+
+  UNABLE_TO_ACCESS_PRINT_THE_POC_UPDATE_WINDOW:
+    code: E5.SYSTEM.MODULE.E0461
+    message: Unable to access print the poc update window.
+
+  UNABLE_TO_CLICK_STAGE_COMPLETED_BUTTON_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0462
+    message: Unable to click stage completed button in process hospice poc update to primary physician window.
+
+  STAGE_COMPLETED_BUTTON_NOT_FOUND_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0463
+    message: Stage completed button not found in process hospice poc update to primary physician window.
+
+  UNABLE_TO_STAGE_COMPLETE_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0464
+    message: Unable to stage complete in process hospice poc update to primary physician window.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0465
+    message: Unable to click cancel button in process hospice poc update to primary physician window.
+
+  CANCEL_BUTTON_NOT_FOUND_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0466
+    message: Cancel button not found in process hospice poc update to primary physician window.
+
+  UNABLE_TO_CANCEL_IN_PROCESS_HOSPICE_POC_UPDATE_TO_PRIMARY_PHYSICIAN_WINDOW:
+    code: E5.SYSTEM.MODULE.E0467
+    message: Unable to cancel in process hospice poc update to primary physician window.
+
+  UNABLE_TO_ACCESS_NOTIFY_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0491
+    message: Unable to access notify primary physician.
+
+  UNABLE_TO_CLICK_DISCHARGE_TRANSFER_SUMMARY_REPORT_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0492
+    message: Unable to click discharge transfer summary report in primary physician.
+
+  DISCHARGE_TRANSFER_SUMMARY_REPORT_BUTTON_NOT_FOUND_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0493
+    message: Discharge transfer summary report button not found in primary physician.
+
+  UNABLE_TO_ACCESS_DISCHARGE_TRANSFER_SUMMARY_REPORT_WINDOW:
+    code: E5.SYSTEM.MODULE.E0494
+    message: Unable to access discharge transfer summary report window.
+
+  UNABLE_TO_CLICK_STAGE_COMPLETED_BUTTON_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0495
+    message: Unable to click stage completed button in primary physician.
+
+  STAGE_COMPLETED_BUTTON_NOT_FOUND_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0496
+    message: Stage completed button not found in primary physician.
+
+  UNABLE_TO_STAGE_COMPLETE_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0497
+    message: Unable to stage complete in primary physician.
+
+  UNABLE_TO_CLICK_CANCEL_BUTTON_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0498
+    message: Unable to click cancel button in primary physician.
+
+  CANCEL_BUTTON_NOT_FOUND_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0499
+    message: Cancel button not found in primary physician.
+
+  UNABLE_TO_CANCEL_IN_PRIMARY_PHYSICIAN:
+    code: E5.SYSTEM.MODULE.E0500
+    message: Unable to cancel in primary physician.
+
+  RECORD_ICON_BUTTON_NOT_VISIBLE_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0501
+    message: Record icon button not visible in workflow console.
+
+  UNABLE_TO_CLICK_RECORD_ICON_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0502
+    message: Unable to click record icon in workflow console.
+
+  RECORDS_LOCKED_BY_OTHER_USER_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E0503
+    message: Records locked by other user workflow console.
+
+  GENERIC_ERROR:
+    code: E5.SYSTEM.MODULE.E0999
+    message: Generic error.
+
+  IMPORT_BUTTON_NOT_FOUND_IN_VIEW_PATIENT_OR_EPISODE_ATTACHMENT_FOR:
+    code: E5.SYSTEM.MODULE.E1016
+    message: Import button not found in view patient or episode attachment for.
+
+  UNABLE_TO_CLICK_IMPORT_BUTTON_IN_VIEW_PATIENT_OR_EPISODE_ATTACHMENT_FOR:
+    code: E5.SYSTEM.MODULE.E1017
+    message: Unable to click import button in view patient or episode attachment for.
+
+  UNABLE_TO_FIND_VIEW_PATIENT_OR_EPISODE_ATTACHMENT_FOR:
+    code: E5.SYSTEM.MODULE.E1018
+    message: Unable to find view patient or episode attachment for.
+
+  UNABLE_TO_FIND_IMPORT_ATTACHMENTS_SCREEN:
+    code: E5.SYSTEM.MODULE.E1022
+    message: Unable to find import attachments screen.
+
+  TYPE_DROPDOWN_NOT_VISIBLE_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1023
+    message: Type dropdown not visible in import attachments.
+
+  UNABLE_TO_CLICK_TYPE_DROPDOWN_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1024
+    message: Unable to click type dropdown in import attachments.
+
+  TYPE_VALUE_NOT_FOUND_IN_DORDOWN_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1025
+    message: Type value not found in dordown in import attachments.
+
+  UNABLE_TO_CLICK_TYPE_VALUE_IN_DROPDOWN_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1026
+    message: Unable to click type value in dropdown in import attachments.
+
+  APPLY_SETTINGS_TO_CHECKED_FILES_BUTTON_NOT_VISIBLE_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1027
+    message: Apply settings to checked files button not visible in import attachments.
+
+  UNABLE_TO_CLICK_APPLY_SETTINGS_TO_CHECKED_FILES_BUTTON_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1028
+    message: Unable to click apply settings to checked files button in import attachments.
+
+  SAVE_AND_CLOSE_BUTTON_NOT_VISIBLE_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1029
+    message: Save and close button not visible in import attachments.
+
+  UNABLE_TO_CLICK_SAVE_AND_CLOSE_BUTTON_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1030
+    message: Unable to click save and close button in import attachments.
+
+  UNABLE_TO_FIND_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1043
+    message: Unable to find add payor source verification for page.
+
+  DATE_OBTAINED_TEXTBOX_NOT_VISIBILE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1046
+    message: Date obtained textbox not visibile in add payor source verification for page.
+
+  UNABLE_TO_FIND_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1046
+    message: Unable to find add payor source verification for page.
+
+  UNABLE_TO_ENTER_DATE_OBTAINED_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1047
+    message: Unable to enter date obtained in add payor source verification for page.
+
+  SAVE_AND_CLOSE_BUTTON_NOT_VISIBILE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1048
+    message: Save and close button not visibile in add payor source verification for page.
+
+  UNABLE_TO_CLICK_SAVE_AND_CLOSE_BUTTON_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1049
+    message: Unable to click save and close button in add payor source verification for page.
+
+  IN_NETWORK_CHECKBOX_IS_NOT_VISIBLE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1050
+    message: In network checkbox is not visible in add payor source verification for page.
+
+  UNABLE_TO_CHECK_IN_NETWORK_CHECKBOX_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1051
+    message: Unable to check in network checkbox in add payor source verification for page.
+
+  HOMEBOUND_STATUS_APPLIES_CHECKBOX_IS_NOT_VISIBLE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1052
+    message: Homebound status applies checkbox is not visible in add payor source verification for page.
+
+  UNABLE_TO_CHECK_HOMEBOUND_STATUS_APPLIES_CHECKBOX_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1053
+    message: Unable to check homebound status applies checkbox in add payor source verification for page.
+
+  BILL_RATE_BASIS_DROPDOWN_NOT_VISIBLE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1054
+    message: Bill rate basis dropdown not visible in add payor source verification for page.
+
+  UNABLE_TO_CLICK_BILL_RATE_BASIS_DROPDOWN_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1055
+    message: Unable to click bill rate basis dropdown in add payor source verification for page.
+
+  BILL_RATE_BASIS_DROPDOWN_VALUE_NOT_VISIBLE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1056
+    message: Bill rate basis dropdown value not visible in add payor source verification for page.
+
+  UNABLE_TO_CLICK_BILL_RATE_BASIS_DROPDOWN_VALUE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1057
+    message: Unable to click bill rate basis dropdown value in add payor source verification for page.
+
+  OOP_INCLUDES_DEDUCTIBLE_CHECKBOX_IS_NOT_VISIBLE_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1058
+    message: Oop includes deductible checkbox is not visible in add payor source verification for page.
+
+  UNABLE_TO_CHECK_OOP_INCLUDES_DEDUCTIBLE_CHECKBOX_IN_ADD_PAYOR_SOURCE_VERIFICATION_FOR_PAGE:
+    code: E5.SYSTEM.MODULE.E1059
+    message: Unable to check oop includes deductible checkbox in add payor source verification for page.
+
+  UNABLE_TO_FIND_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1063
+    message: Unable to find election of benefits page.
+
+  UNABLE_TO_CLICK_EOB_TYPE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1066
+    message: Unable to click eob type in election of benefits page.
+
+  EOB_TYPE_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1067
+    message: Eob type not visible in election of benefits page.
+
+  UNABLE_TO_CLICK_EOB_TYPE_VALUE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1068
+    message: Unable to click eob type value in election of benefits page.
+
+  START_OF_CARE_DATE_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1069
+    message: Start of care date not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_START_OF_CARE_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1070
+    message: Unable to enter start of care date in election of benefits page.
+
+  NUMBER_OF_DISCHARGES_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1071
+    message: Number of discharges textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_NUMBER_OF_DISCHARGES_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1072
+    message: Unable to enter number of discharges in election of benefits page.
+
+  SAVE_AND_CLOSE_BUTTON_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1073
+    message: Save and close button not visible in election of benefits page.
+
+  UNABLE_TO_CLICK_SAVE_AND_CLOSE_BUTTON_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1074
+    message: Unable to click save and close button in election of benefits page.
+
+  FIRST_DISCHARGE_EOB_DATE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1075
+    message: First discharge eob date textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FIRST_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1076
+    message: Unable to enter first discharge eob date in election of benefits page.
+
+  SECOND_DISCHARGE_EOB_DATE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1077
+    message: Second discharge eob date textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_SECOND_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1078
+    message: Unable to enter second discharge eob date in election of benefits page.
+
+  THIRD_DISCHARGE_EOB_DATE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1079
+    message: Third discharge eob date textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_THIRD_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1080
+    message: Unable to enter third discharge eob date in election of benefits page.
+
+  FOURTH_DISCHARGE_EOB_DATE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1081
+    message: Fourth discharge eob date textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FOURTH_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1082
+    message: Unable to enter fourth discharge eob date in election of benefits page.
+
+  FIFTH_DISCHARGE_EOB_DATE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1083
+    message: Fifth discharge eob date textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FIFTH_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1084
+    message: Unable to enter fifth discharge eob date in election of benefits page.
+
+  FIRST_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1085
+    message: First discharge last day on service textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FIRST_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1086
+    message: Unable to enter first discharge last day on service in election of benefits page.
+
+  SECOND_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1087
+    message: Second discharge last day on service textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_SECOND_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1088
+    message: Unable to enter second discharge last day on service in election of benefits page.
+
+  THIRD_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1089
+    message: Third discharge last day on service textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_THIRD_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1090
+    message: Unable to enter third discharge last day on service in election of benefits page.
+
+  FOURTH_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1091
+    message: Fourth discharge last day on service textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FOURTH_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1092
+    message: Unable to enter fourth discharge last day on service in election of benefits page.
+
+  FIFTH_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1093
+    message: Fifth discharge last day on service textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FIFTH_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1094
+    message: Unable to enter fifth discharge last day on service in election of benefits page.
+
+  FIRST_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1095
+    message: First discharge from provider number textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FIRST_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1096
+    message: Unable to enter first discharge from provider number in election of benefits page.
+
+  SECOND_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1097
+    message: Second discharge from provider number textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_SECOND_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1098
+    message: Unable to enter second discharge from provider number in election of benefits page.
+
+  THIRD_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1099
+    message: Third discharge from provider number textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_THIRD_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1100
+    message: Unable to enter third discharge from provider number in election of benefits page.
+
+  FOURTH_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1101
+    message: Fourth discharge from provider number textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FOURTH_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1102
+    message: Unable to enter fourth discharge from provider number in election of benefits page.
+
+  FIFTH_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1103
+    message: Fifth discharge from provider number textbox not visible in election of benefits page.
+
+  UNABLE_TO_ENTER_FIFTH_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1104
+    message: Unable to enter fifth discharge from provider number in election of benefits page.
+
+  RECIPIENT_TEXTBOX_NOT_VISIBLE_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1106
+    message: Recipient textbox not visible in import attachments.
+
+  RECIPIENT_VALUE_NOT_POPULATED_IN_IMPORT_ATTACHMENT:
+    code: E5.SYSTEM.MODULE.E1107
+    message: Recipient value not populated in import attachment.
+
+  VALIDATION_ERROR_POPUP_OCCUERED_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1108
+    message: Validation error popup occuered in import attachments.
+
+  FILE_SIZE_EXCEED_WHILE_UPLOADING_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1109
+    message: File size exceed while uploading in import attachments.
+
+  FILE_NOT_UPLOADED_IN_IMPORT_ATTACHMENTS:
+    code: E5.SYSTEM.MODULE.E1110
+    message: File not uploaded in import attachments.
+
+  UNABLE_TO_ACTIVATE_OPEN_WINDOW:
+    code: E5.SYSTEM.MODULE.E1111
+    message: Unable to activate open window.
+
+  UNABLE_TO_ENTER_FILE_PATH_IN_OPEN_WINDOW:
+    code: E5.SYSTEM.MODULE.E1112
+    message: Unable to enter file path in open window.
+
+  UNABLE_TO_CLOSE_OPEN_WINODW:
+    code: E5.SYSTEM.MODULE.E1113
+    message: Unable to close open winodw.
+
+  START_OF_CARE_DATE_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1114
+    message: Start of care date is disabled in election of benefits page.
+
+  FIRST_DISCHARGE_EOB_DATE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1115
+    message: First discharge eob date textbox is disabled in election of benefits page.
+
+  SECOND_DISCHARGE_EOB_DATE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1116
+    message: Second discharge eob date textbox is disabled in election of benefits page.
+
+  THIRD_DISCHARGE_EOB_DATE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1117
+    message: Third discharge eob date textbox is disabled in election of benefits page.
+
+  FOURTH_DISCHARGE_EOB_DATE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1118
+    message: Fourth discharge eob date textbox is disabled in election of benefits page.
+
+  FIFTH_DISCHARGE_EOB_DATE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1119
+    message: Fifth discharge eob date textbox is disabled in election of benefits page.
+
+  FIRST_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1120
+    message: First discharge last day on service textbox is disabled in election of benefits page.
+
+  SECOND_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1121
+    message: Second discharge last day on service textbox is disabled in election of benefits page.
+
+  THIRD_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1122
+    message: Third discharge last day on service textbox is disabled in election of benefits page.
+
+  FOURTH_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1123
+    message: Fourth discharge last day on service textbox is disabled in election of benefits page.
+
+  FIFTH_DISCHARGE_LAST_DAY_ON_SERVICE_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1124
+    message: Fifth discharge last day on service textbox is disabled in election of benefits page.
+
+  FIRST_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1125
+    message: First discharge from provider number textbox is disabled in election of benefits page.
+
+  SECOND_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1126
+    message: Second discharge from provider number textbox is disabled in election of benefits page.
+
+  THIRD_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1127
+    message: Third discharge from provider number textbox is disabled in election of benefits page.
+
+  FOURTH_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_IS_DISABLED_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1128
+    message: Fourth discharge from provider number textbox is disabled in election of benefits page.
+
+  FIFTH_DISCHARGE_FROM_PROVIDER_NUMBER_TEXTBOX_NOT_VISIBLE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1129
+    message: Fifth discharge from provider number textbox not visible in election of benefits page.
+
+  MAIN_BUTTON_NOT_FOUND_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E1130
+    message: Main button not found in clinical input.
+
+  UNABLE_TO_CLICK_MAIN_BUTTON_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E1131
+    message: Unable to click main button in clinical input.
+
+  SUB_MENU_BUTTON_1_NOT_FOUND_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E1132
+    message: Sub menu button 1 not found in clinical input.
+
+  UNABLE_TO_CLICK_SUB_MENU_BUTTON_1_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E1133
+    message: Unable to click sub menu button 1 in clinical input.
+
+  SUB_MENU_BUTTON_2_NOT_FOUND_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E1134
+    message: Sub menu button 2 not found in clinical input.
+
+  UNABLE_TO_CLICK_SUB_MENU_BUTTON_2_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E1135
+    message: Unable to click sub menu button 2 in clinical input.
+
+  UNABLE_TO_ACCESS_EXPECTED_OUPUT_WINDOW:
+    code: E5.SYSTEM.MODULE.E1136
+    message: Unable to access expected ouput window.
+
+  IMPORTED_FILE_NOT_POPULATED_IN_IMPORT_ATTACHMENT:
+    code: E5.SYSTEM.MODULE.E1137
+    message: Imported file not populated in import attachment.
+
+  MAXIMUM_SIZE_EXCEED_ERROR_OCCURED_IN_IMPORT_ATTACHMENT:
+    code: E5.SYSTEM.MODULE.E1138
+    message: Maximum size exceed error occured in import attachment.
+
+  VALIDATION_ERROR_FOUND_IN_IMPORT_ATTACHMENT:
+    code: E5.SYSTEM.MODULE.E1139
+    message: Validation error found in import attachment.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_START_OF_CARE_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1140
+    message: Entered text is not equal to input value for start of care date in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_NUMBER_OF_DISCHARGES_IN_ELECTION_OF_BENEFITS_WINDOW:
+    code: E5.SYSTEM.MODULE.E1141
+    message: Entered text is not equal to input value for number of discharges in election of benefits window.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FIRST_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1142
+    message: Entered text is not equal to input value for first discharge eob date in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_SECOND_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1143
+    message: Entered text is not equal to input value for second discharge eob date in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_THIRD_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1144
+    message: Entered text is not equal to input value for third discharge eob date in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FOURTH_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1145
+    message: Entered text is not equal to input value for fourth discharge eob date in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FIFTH_DISCHARGE_EOB_DATE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1146
+    message: Entered text is not equal to input value for fifth discharge eob date in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FIRST_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1147
+    message: Entered text is not equal to input value for first discharge last day on service in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_SECOND_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1148
+    message: Entered text is not equal to input value for second discharge last day on service in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_THIRD_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1149
+    message: Entered text is not equal to input value for third discharge last day on service in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FOURTH_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1150
+    message: Entered text is not equal to input value for fourth discharge last day on service in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FIFTH_DISCHARGE_LAST_DAY_ON_SERVICE_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1151
+    message: Entered text is not equal to input value for fifth discharge last day on service in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FIRST_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1152
+    message: Entered text is not equal to input value for first discharge from provider number in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_SECOND_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1153
+    message: Entered text is not equal to input value for second discharge from provider number in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_THIRD_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1154
+    message: Entered text is not equal to input value for third discharge from provider number in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FOURTH_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1155
+    message: Entered text is not equal to input value for fourth discharge from provider number in election of benefits page.
+
+  ENTERED_TEXT_IS_NOT_EQUAL_TO_INPUT_VALUE_FOR_FIFTH_DISCHARGE_FROM_PROVIDER_NUMBER_IN_ELECTION_OF_BENEFITS_PAGE:
+    code: E5.SYSTEM.MODULE.E1156
+    message: Entered text is not equal to input value for fifth discharge from provider number in election of benefits page.
+
+  UNABLE_TO_FIND_GIVEN_TASK_BUTTON_IN_STAGE_COMPLETE_POPUP:
+    code: E5.SYSTEM.MODULE.E1157
+    message: Unable to find given task button in stage complete popup.
+
+  UNABLE_TO_CLICK_GIVEN_TASK_BUTTON_IN_STAGE_COMPLETE_POPUP:
+    code: E5.SYSTEM.MODULE.E1158
+    message: Unable to click given task button in stage complete popup.
+
+  UNABLE_TO_ACCESS_EXPECTED_STAGE_COMPLETE_WINDOW:
+    code: E5.SYSTEM.MODULE.E1159
+    message: Unable to access expected stage complete window.
+
+  UNABLE_TO_CHECK_RECORD_LOADED_OR_NOT_IN_WORKFLOW_CONSOLE:
+    code: E5.SYSTEM.MODULE.E1160
+    message: Unable to check record loaded or not in workflow console.
+
+  SEARCH_LIMIT_POPUP_STILL_EXIST_IN_CLINICAL_INPUT:
+    code: E5.SYSTEM.MODULE.E1161
+    message: Search limit popup still exist in clinical input.

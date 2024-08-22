@@ -1,0 +1,259 @@
+[
+    [
+        {
+            "key": "REV",
+            "value": "0023"
+        },
+        {
+            "key": " DATE",
+            "value": "01/23"
+        },
+        {
+            "key": " HCPCS",
+            "value": "1AA11"
+        },
+        {
+            "key": "APC/HIPPS",
+            "value": ""
+        },
+        {
+            "key": "MODS",
+            "value": ""
+        },
+        {
+            "key": "QTY",
+            "value": "0"
+        },
+        {
+            "key": "CHARGES",
+            "value": "0.00"
+        },
+        {
+            "key": "ALLOW/REIM",
+            "value": "0.00"
+        },
+        {
+            "key": "GC",
+            "value": ""
+        },
+        {
+            "key": "RSN",
+            "value": ""
+        },
+        {
+            "key": " AMOUNT",
+            "value": ""
+        },
+        {
+            "key": "REMARK CODES",
+            "value": "7841096374Z1"
+        },
+        {
+            "key": " LICN",
+            "value": ""
+        },
+        {
+            "key": "HCPI",
+            "value": ""
+        },
+        {
+            "key": "SVC Desc",
+            "value": ""
+        }
+    ],
+    [
+        {
+            "key": "REV",
+            "value": "0421"
+        },
+        {
+            "key": " DATE",
+            "value": "01/30"
+        },
+        {
+            "key": " HCPCS",
+            "value": "G0151"
+        },
+        {
+            "key": "APC/HIPPS",
+            "value": ""
+        },
+        {
+            "key": "MODS",
+            "value": ""
+        },
+        {
+            "key": "QTY",
+            "value": "1"
+        },
+        {
+            "key": "CHARGES",
+            "value": "250.00"
+        },
+        {
+            "key": "ALLOW/REIM",
+            "value": "98.00"
+        },
+        {
+            "key": "GC",
+            "value": [
+                "CO",
+                "CO"
+            ]
+        },
+        {
+            "key": "RSN",
+            "value": [
+                "45",
+                "253"
+            ]
+        },
+        {
+            "key": " AMOUNT",
+            "value": [
+                "150.00",
+                "2.00"
+            ]
+        },
+        {
+            "key": "REMARK CODES",
+            "value": "N377"
+        },
+        {
+            "key": " LICN",
+            "value": "505794676"
+        },
+        {
+            "key": "HCPI",
+            "value": ""
+        },
+        {
+            "key": "SVC Desc",
+            "value": ""
+        }
+    ],
+    [
+        {
+            "key": "REV",
+            "value": "0023"
+        },
+        {
+            "key": " DATE",
+            "value": "01/23"
+        },
+        {
+            "key": " HCPCS",
+            "value": "1AA11"
+        },
+        {
+            "key": "APC/HIPPS",
+            "value": ""
+        },
+        {
+            "key": "MODS",
+            "value": ""
+        },
+        {
+            "key": "QTY",
+            "value": "0"
+        },
+        {
+            "key": "CHARGES",
+            "value": "0.00"
+        },
+        {
+            "key": "ALLOW/REIM",
+            "value": "0.00"
+        },
+        {
+            "key": "GC",
+            "value": ""
+        },
+        {
+            "key": "RSN",
+            "value": ""
+        },
+        {
+            "key": " AMOUNT",
+            "value": ""
+        },
+        {
+            "key": "REMARK CODES",
+            "value": "7804796165Z1"
+        },
+        {
+            "key": " LICN",
+            "value": ""
+        },
+        {
+            "key": "HCPI",
+            "value": ""
+        },
+        {
+            "key": "SVC Desc",
+            "value": ""
+        }
+    ],
+    [
+        {
+            "key": "REV",
+            "value": "0421"
+        },
+        {
+            "key": " DATE",
+            "value": "01/30"
+        },
+        {
+            "key": " HCPCS",
+            "value": "S9131"
+        },
+        {
+            "key": "APC/HIPPS",
+            "value": ""
+        },
+        {
+            "key": "MODS",
+            "value": ""
+        },
+        {
+            "key": "QTY",
+            "value": "0"
+        },
+        {
+            "key": "CHARGES",
+            "value": "-250.00"
+        },
+        {
+            "key": "ALLOW/REIM",
+            "value": "0.00"
+        },
+        {
+            "key": "GC",
+            "value": "CO"
+        },
+        {
+            "key": "RSN",
+            "value": "96"
+        },
+        {
+            "key": " AMOUNT",
+            "value": "-250.00"
+        },
+        {
+            "key": "REMARK CODES",
+            "value": "N381"
+        },
+        {
+            "key": " LICN",
+            "value": "2"
+        },
+        {
+            "key": "HCPI",
+            "value": ""
+        },
+        {
+            "key": "SVC Desc",
+            "value": ""
+        }
+    ]
+]

@@ -1,0 +1,1113 @@
+# module-exceptions.yaml : contains module error codes  and messages
+e5:
+  SUCCESS:
+    code: E5.SYSTEM.MODULE.S0001
+    message: message processed succesfully
+
+  GENERIC_ERROR:
+    code: E5.SYSTEM.MODULE.E0999
+    message: message processing failed
+
+  USERNAME_FIELD_VALUE_NOT_POPULATED:
+    code: E5.SYSTEM.MODULE.E0001
+    message: Username field value not populated  in login page
+
+  USERNAME_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0002
+    message: Username field not attached in login page
+
+  USERNAME_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0003
+    message: Username field not visible in login page
+
+  USERNAME_FIELD_NOT_EDITABLE:
+    code: E5.SYSTEM.MODULE.E0004
+    message: Username field not editable in login page
+
+  USERNAME_FIELD_NOT_A_TEXTBOX:
+    code: E5.SYSTEM.MODULE.E0005
+    message: Username field not a textbox in login page
+
+  UNKNOWN_ERROR_OCCURRED:
+    code: E5.SYSTEM.MODULE.E0006
+    message: Unknown error occured
+
+  PASSWORD_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0007
+    message: Password field not attached in login page
+
+  PASSWORD_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0008
+    message: Password field not visible in login page
+
+  PASSWORD_FIELD_NOT_EDITABLE:
+    code: E5.SYSTEM.MODULE.E0009
+    message: Password field not editable in login page
+
+  PASSWORD_FIELD_NOT_A_PASSWORD_TEXTBOX:
+    code: E5.SYSTEM.MODULE.E0010
+    message: Password field not a password in login page
+
+  LOGIN_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0011
+    message: Login Button not attached in login page
+
+  LOGIN_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0012
+    message: Login Button not visible in login page
+
+  LOGIN_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0013
+    message: Login Button not enabled in login page
+
+  LOGIN_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0014
+    message: Login Button not a button in login page
+
+  LOGIN_PAGE_NOT_FOUND_ERROR:
+    code: E5.SYSTEM.MODULE.E0015
+    message: Login Page not found
+
+  MENU_PAGE_NOT_FOUND_ERROR:
+    code: E5.SYSTEM.MODULE.E0016
+    message: menu page not found
+
+  MENU_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0017
+    message: menu button not is attached
+
+  MENU_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0018
+    message: menu button not is visible
+
+  MENU_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0019
+    message: menu button not enabled
+
+  MENU_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0020
+    message: menu button is not a button
+
+  SUB_MENU_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0021
+    message: sub menu button is not attached
+
+  SUB_MENU_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0022
+    message: Sub menu button is not visible
+
+  SUB_MENU_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0023
+    message: Sub menu button is not enabled
+
+  SUB_MENU_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0024
+    message: Sub menu button is not a button
+
+  SUB_MENU_2_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0025
+    message: Sub menu button 2 is not attached
+
+  SUB_MENU_2_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0026
+    message: Sub menu button 2 is not visible
+
+  SUB_MENU_2_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0027
+    message: Sub menu button 2 is not enabled
+
+  SUB_MENU_2_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0028
+    message: Sub menu2 button is not a button
+
+  FAILED_TO_NAVIGATE_MENU:
+    code: E5.SYSTEM.MODULE.E0033
+    message: Failed to navigate menu page
+
+  ACTION_PANE_EXPORT_DROPDOWN_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0034
+    message: Action pane export dropdown not attached
+
+  ACTION_PANE_EXPORT_DROPDOWN_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0035
+    message: Action pane export dropdown not visible
+
+  ACTION_PANE_EXPORT_DROPDOWN_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0036
+    message: Action pane export dropdown not enabled
+
+  ACTION_PANE_EXPORT_DROPDOWN_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0037
+    message: Action pane export dropdown not a button
+
+  ACTION_PANE_EXPORT_TYPE_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0038
+    message: Action pane export type not attached
+
+  ACTION_PANE_EXPORT_TYPE_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0039
+    message: Action pane export type not visible
+
+  ACTION_PANE_EXPORT_TYPE_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0040
+    message: Action pane export type not enabled
+
+  ACTION_PANE_EXPORT_TYPE_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0041
+    message: Action pane export type not a button
+
+  EXPORT_BUTTON_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0042
+    message: Action pane export button not attached
+
+  EXPORT_BUTTON_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0043
+    message: Action pane export button not visible
+
+  EXPORT_BUTTON_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0044
+    message: Action pane export button not enabled
+
+  EXPORT_BUTTON_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0045
+    message: Action pane export button not a button
+
+  ACTION_PANE_EXPORT_MESSAGE_NOT_FOUND_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0046
+    message: Post condition action pane export failed
+
+  FILE_NAME_FIELD_VALUE_NOT_POPULATED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0047
+    message: Action export set file name value not poulated
+
+  FILE_NAME_FIELD_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0048
+    message: Action export set file name not attached
+
+  FILE_NAME_FIELD_NOT_EDITABLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0049
+    message: Action export set filename not editable
+
+  FILE_NAME_FIELD_NOT_A_TEXTBOX_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0050
+    message: Action export set file name not a textbox
+
+  EXPORTS_GRID_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0051
+    message: Exports grid is not attached in Exports page.
+
+  EXPORTS_GRID_NOT_A_TABLE:
+    code: E5.SYSTEM.MODULE.E0052
+    message: Exports grid is not a table in Exports page.
+
+  EXPORTS_GRID_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0053
+    message: Exports grid is not visible in Exports page.
+
+  ROW_NOT_ATTACHED_IN_EXPORTS_GRID:
+    code: E5.SYSTEM.MODULE.E0054
+    message: Specified row is not attached in Exports page.
+
+  NEXT_PAGE_BUTTON_NOT_FOUND_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0055
+    message: Next button is not found in Exports grid pagination footer.
+
+  NEXT_PAGE_BUTTON_NOT_VISIBLE_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0056
+    message: Next button is not visible in Exports grid pagination footer.
+
+  NEXT_PAGE_BUTTON_NOT_ENABLED_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0057
+    message: Next button is not enabled in Exports grid pagination footer.
+
+  NEXT_PAGE_BUTTON_NOT_A_BUTTON_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0058
+    message: Next button is not a button in Exports grid pagination footer.
+
+  DOWLOAD_BUTTON_NOT_FOUND_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0059
+    message: Download Button is not found in Exports page.
+
+  DOWLOAD_BUTTON_NOT_VISIBLE_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0060
+    message: Download Button is not visible in Exports page.
+
+  DOWLOAD_BUTTON_NOT_ENABLED_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0061
+    message: Download Button is not enabled in Exports page.
+
+  DOWLOAD_BUTTON_NOT_A_BUTTON_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0062
+    message: Download Button is not a button in Exports page.
+
+  GRID_LOADER_IS_STILL_PRESENT_IN_REMITTANCE_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0063
+    message: The exports grid loader is still present after waitinng.
+
+  ERROR_WHILE_DOWNLOADING_FILE_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0064
+    message: Unexpected error while downloading file from exports page.
+
+  FILE_IS_UNAVAILABLE_AFTER_DOWNLOAD_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0065
+    message: Unable to find the file after download is completed.
+
+  UNABLE_TO_LOCATE_REMITS_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0066
+    message: Unable to Remits exports page.
+
+  DOWNLOADS_PAGE_NOT_AVAILABLE:
+    code: E5.SYSTEM.MODULE.E0067
+    message: Downloads page is not available.
+
+  PAYMENT_ID_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0068
+    message: Payment id text box not attached in remits downloads page.
+
+  PAYMENT_ID_NOT_TEXTBOX_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0069
+    message: Payment id text box is not a textbox in remits downloads page.
+
+  PAYMENT_ID_NOT_VISIBLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0070
+    message: Payment id text box is not visible in remits downloads page.
+
+  PAYMENT_ID_NOT_EDITABLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0071
+    message: Payment id text box is not enabled in remits downloads page.
+
+  PAYMENT_ID_NOT_POPULATED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0072
+    message: Payment id is not populated in remits downloads page.
+
+  EXPAND_PANEL_BUTTON_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0073
+    message: Expand panel button not attached in remits downloads page.
+
+  EXPAND_PANEL_BUTTON_NOT_VISIBLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0074
+    message: Expand panel button not visible in remits downloads page.
+
+  EXPAND_PANEL_BUTTON_NOT_ENABLED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0075
+    message: Expand panel button not enabled in remits downloads page.
+
+  EXPAND_PANEL_BUTTON_NOT_A_BUTTON_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0076
+    message: Expand panel button is not a button in remits downloads page.
+
+  INVALID_INPUTS_PASSED_FOR_CHECKBOX_ACTION_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0077
+    message: Incorrect input passed for checkbox action in remits payments page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0078
+    message: Checkbox action dropdown button not attached in remits payments page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0079
+    message: Checkbox action dropdown button not visible in remits payments page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0080
+    message: Checkbox action dropdown button not enabled in remits payments page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0081
+    message: Checkbox action dropdown button not a button in remits payments page.
+
+  CHECKBOX_ACTION_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0082
+    message: Checkbox action not attached in remits payments page.
+
+  CHECKBOX_ACTION_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0083
+    message: Checkbox action not visible in remits payments page.
+
+  CHECKBOX_ACTION_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0084
+    message: Checkbox action not enabled in remits payments page.
+
+  CHECKBOX_ACTION_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0085
+    message: Checkbox action not a button in remits payments page.
+
+  SELECTED_ROW_COUNT_ELEMENT_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0086
+    message: Selected row count is not attached in action pane in remits payments page.
+
+  CLEAR_SELECTED_BUTTON_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0088
+    message: Clear selected button is not attached in action pane in remits payments page.
+
+  CLEAR_SELECTED_BUTTON_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0089
+    message: Clear selected button is not visible in action pane in remits payments page.
+
+  CLEAR_SELECTED_BUTTON_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0090
+    message: Clear selected button is not enabled in action pane in remits payments page.
+
+  CLEAR_SELECTED_BUTTON_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0091
+    message: Clear selected button is not a button in action pane in remits payments page.
+
+  CLEAR_SELECTEDROWS_POST_CONDITION_FAILED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0092
+    message: Clear selected rows post condition failed in remits payments page in remits payments page.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0093
+    message: Download zip dropdown button is not a button.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0094
+    message: Download zip dropdown button is not enabled.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0095
+    message: Download zip dropdown button is not visible.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0096
+    message: Download zip dropdown button is not attached.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0097
+    message: Download zip dropdown file name button is not a button.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0098
+    message: Download zip dropdown file name button is not enabled.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0099
+    message: Download zip dropdown file name button is not visible.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0100
+    message: Download zip dropdown file name button is not attached.
+
+  FILE_IS_UNAVAILABLE_AFTER_DOWNLOAD_IN_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0101
+    message: File is unavailable after download in payments page.
+
+  UNABLE_TO_LOCATE_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0102
+    message: Unable to validate the remits payments page
+
+  SEARCH_BUTTON_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0103
+    message: Search button is not attached in remits downloads page.
+
+  SEARCH_BUTTON_NOT_A_BUTTON_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0104
+    message: Search button is not a button in remits downloads page.
+
+  SEARCH_BUTTON_NOT_VISIBLE_IN_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0105
+    message: Search button is not visible in remits downloads page.
+
+  SEARCH_BUTTON_NOT_ENABLED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0106
+    message: Search button not enabled in remits downloads page.
+
+  PASSWORD_FIELD_VALUE_NOT_POPULATED:
+    code: E5.SYSTEM.MODULE.E0246
+    message: password field value not populated
+
+  FOUND_PASSWORD_EXPIRED_PAGE:
+    code: E5.SYSTEM.MODULE.E0247
+    message: password expired page found
+
+  HOME_PAGE_NOT_FOUND_ERROR:
+    code: E5.SYSTEM.MODULE.E0248
+    message: home page not found
+
+  PAYMENT_NUMBER_VALUE_NOT_POPULATED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0175
+    message: Payment number value not populated in remits payments page.
+
+  PAYMENT_NUMBER_FIELD_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0107
+    message: Payment number field not attached in remits payments page.
+
+  PAYMENT_NUMBER_FIELD_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0108
+    message: Payment number field not visible in remits payments page.
+
+  PAYMENT_NUMBER_FIELD_NOT_EDITABLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0109
+    message: Payment number field not editable in remits payments page.
+
+  PAYMENT_NUMBER_FIELD_NOT_A_TEXTBOX_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0110
+    message: Payment number field not a text box in remits payments page.
+
+  PAYMENT_FROM_DATE_VALUE_NOT_POPULATED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0111
+    message: Payment from date value not populated in remits payments page.
+
+  PAYMENT_FROM_DATE_FIELD_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0112
+    message: Payment from date field not attached in remits payments page.
+
+  PAYMENT_FROM_DATE_FIELD_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0113
+    message: Payment from date field not visible in remits payments page.
+
+  PAYMENT_FROM_DATE_FIELD_NOT_EDITABLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0114
+    message: Payment from date field not editable in remits payments page.
+
+  PAYMENT_FROM_DATE_FIELD_NOT_A_TEXTBOX_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0115
+    message: Payment from date field not a text box in remits payments page.
+
+  PAYMENT_TO_DATE_VALUE_NOT_POPULATED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0116
+    message: Payment to date value not populated in remits payments page.
+
+  PAYMENT_TO_DATE_FIELD_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0117
+    message: Payment to date field not attached in remits payments page.
+
+  PAYMENT_TO_DATE_FIELD_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0118
+    message: Payment to date field not visible in remits payments page.
+
+  PAYMENT_TO_DATE_FIELD_NOT_EDITABLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0119
+    message: Payment to date field not editable in remits payments page.
+
+  PAYMENT_TO_DATE_FIELD_NOT_A_TEXTBOX_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0120
+    message: Payment to date field not a text box in remits payments page.
+
+  RECEIVED_FROM_DATE_VALUE_NOT_POPULATED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0121
+    message: Received from date value not populated in remits payments page.
+
+  RECEIVED_FROM_DATE_FIELD_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0122
+    message: Received from date field not attached in remits payments page.
+
+  RECEIVED_FROM_DATE_FIELD_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0123
+    message: Received from date field not visible in remits payments page.
+
+  RECEIVED_FROM_DATE_FIELD_NOT_EDITABLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0124
+    message: Received from date field not editable in remits payments page.
+
+  RECEIVED_FROM_DATE_FIELD_NOT_A_TEXTBOX_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0125
+    message: Received from date field not a text box in remits payments page.
+
+  RECEIVED_TO_DATE_VALUE_NOT_POPULATED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0126
+    message: Received to date value not populated in remits payments page.
+
+  RECEIVED_TO_DATE_FIELD_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0127
+    message: Received to date field not attached in remits payments page.
+
+  RECEIVED_TO_DATE_FIELD_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0128
+    message: Received to date field not visible in remits payments page.
+
+  RECEIVED_TO_DATE_FIELD_NOT_EDITABLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0129
+    message: Received to date field not editable in remits payments page.
+
+  RECEIVED_TO_DATE_FIELD_NOT_A_TEXTBOX_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0130
+    message: Received to date field not a text box in remits payments page.
+
+  TOP_SEARCH_BUTTON_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0131
+    message: Top search button not attached in remits page.
+
+  TOP_SEARCH_BUTTON_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0132
+    message: Top search button not visible in remits page.
+
+  TOP_SEARCH_BUTTON_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0133
+    message: Top search button not enabled in remits page.
+
+  TOP_SEARCH_BUTTON_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0134
+    message: Top search button not a button in remits page in remits payments page.
+
+  BOTTOM_SEARCH_BUTTON_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0135
+    message: Bottom search button not attached in remits payments page.
+
+  BOTTOM_SEARCH_BUTTON_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0136
+    message: Botton search button not visible in remits page.
+
+  BOTTOM_SEARCH_BUTTON_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0137
+    message: Bottom search button not enabled in remits page.
+
+  BOTTOM_SEARCH_BUTTON_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0138
+    message: Top search button not a button in remits page.
+
+  ACTION_PANE_ROOT_SELECTOR_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0139
+    message: Action pane root selector is not attached.
+
+  ERROR_WHILE_DOWNLOADING_FILE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0140
+    message: error while downloading file in remit payments page
+
+  FILE_NAME_FIELD_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0141
+    message: Action export set file name not visible
+
+  UNABLE_TO_ACCESS_SEARCH_PANEL_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0142
+    message: unable to access search panel in remit payments page
+
+  UNABLE_TO_ACCESS_SEARCH_PANEL_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0143
+    message: Unable to access the search panel in the remits download page.
+
+  UNABLE_TO_ACCESS_ID_SEARCH_PANEL_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0144
+    message: Unable to access the id search panel in the remits download page.
+
+  EXPAND_PANEL_BUTTON_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0145
+    message: Expand panel button not attached in the remits payment page.
+
+  EXPAND_PANEL_BUTTON_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0146
+    message: Expand panel not visible in the  remits payment page.
+
+  EXPAND_PANEL_BUTTON_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0147
+    message: Expand panel button not enabled in the remots payment page.
+
+  EXPAND_PANEL_BUTTON_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0148
+    message: Expand panel button not a button in the remits payment page
+
+  UNABLE_TO_ACCESS_SELECTED_ROW_COUNT_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0149
+    message: unable to access select row count in remittance manager page
+
+  UNKNOWN_QUESTION_TO_LOGIN_WAYSTAR:
+    code: E5.SYSTEM.MODULE.E0249
+    message: Unknown question to login watstar
+
+  CLEAR_SELECTED_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0150
+    message: Clear selected button not attached.
+
+  CLEAR_SELECTED_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0151
+    message: Clear selected button not visible.
+
+  CLEAR_SELECTED_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0152
+    message: Clear selected button not enabled.
+
+  CLEAR_SELECTED_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0153
+    message: Clear selected button not a button.
+
+  CLEAR_SELECTEDROWS_POST_CONDITION_FAILED:
+    code: E5.SYSTEM.MODULE.E0154
+    message: Clear selected rows post condition failed.
+
+  SELECTED_ROW_COUNT_ELEMENT_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0155
+    message: Selected row count element not attached.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0156
+    message: Download zip dropdown not attached.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0157
+    message: Download zip dropdown not visible.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0158
+    message: Download zip dropdown not enabled.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0159
+    message: Download zip dropdown not a button.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0160
+    message: Download zip dropdown filename not attached.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0161
+    message: Download zip dropdown filename not visible.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0162
+    message: Download zip dropdown filename not enabled.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0163
+    message: Download zip dropdown filename not a button.
+
+  ERROR_WHILE_DELETING_FILE_FROM_STORAGE:
+    code: E5.SYSTEM.MODULE.E0164
+    message: Error while deleting file from storage
+
+  ERROR_WHILE_TRYING_TO_UPDATE_THE_FILE_TO_S3:
+    code: E5.SYSTEM.MODULE.E0165
+    message: Error while trying to update file into s3 bucket.
+
+  CURRENT_PAGE_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0166
+    message: Current page filed not attached.
+
+  CURRENT_PAGE_FIELD_NOT_A_TEXTBOX:
+    code: E5.SYSTEM.MODULE.E0167
+    message: Current  page field not a text box.
+
+  CURRENT_PAGE_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0168
+    message: Current page not visible.
+
+  MORE_THAN_ONE_FILE_FOUND_IN_EXPORT:
+    code: E5.SYSTEM.MODULE.E0169
+    message: More than one file found in the export page.
+
+  UNABLE_TO_EXPAND_ID_SEARCH_PANEL_IN_REMITS_DOWNLOAD_PAGE:
+    code: E5.SYSTEM.MODULE.E0170
+    message: Unable to expand the id search panel in the remits download page.
+
+  UNABLE_TO_EXPAND_SEARCH_PANEL_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0171
+    message: Unable to expand the search panel in the remits payment page.
+
+  LOADER_PRESENT_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0172
+    message: Loader still present in the remits download page.
+
+  LOADER_PRESENT_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0173
+    message: Loader still present in the remits payments page.
+
+  UNABLE_ACCESS_ACTION_PANE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0193
+    message: Action pane is not attached in page.
+
+  INVALID_BROWSER_ELEMENT_ATTRIBUTE_FOR_SELECTED_ROW_COUNT:
+    code: E5.SYSTEM.MODULE.E0194
+    message: Invalid browser element attribute for selected row count.
+
+  INVALID_INPUTS_PASSED_FOR_CHECKBOX_ACTION:
+    code: E5.SYSTEM.MODULE.E0195
+    message: Invalid inputs passed for checkbox action.
+
+  INVALID_INPUTS_PASSED_FOR_CHECKBOX_ACTION_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0196
+    message: Incorrect input passed for checkbox action in remits download page.
+
+  ERROR_WHILE_ACCESSING_SELECTED_ROW_COUNT_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0197
+    message: Error while accessing selected row count element in remits downloads page.
+
+  FILE_IS_UNAVAILABLE_AFTER_DOWNLOAD_IN_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0198
+    message: File is not available after download in downloads page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0176
+    message: Checkbox action dropdown button not attached in remits downloads page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_VISIBLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0177
+    message: Checkbox action dropdown button not visible in remits downloads page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_ENABLED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0178
+    message: Checkbox action dropdown button not enabled in remits downloads page.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_A_BUTTON_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0179
+    message: Checkbox action dropdown button not a button in remits downloads page.
+
+  CHECKBOX_ACTION_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0180
+    message: Checkbox action not attached in remits downloads page.
+
+  CHECKBOX_ACTION_NOT_VISIBLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0181
+    message: Checkbox action not visible in remits downloads page.
+
+  CHECKBOX_ACTION_NOT_ENABLED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0182
+    message: Checkbox action not enabled in remits downloads page.
+
+  CHECKBOX_ACTION_NOT_A_BUTTON_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0183
+    message: Checkbox action not a button in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0184
+    message: Download zip dropwdown is not attached in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_VISIBLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0185
+    message: Download zip dropwdown is not visible in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_ENABLED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0186
+    message: Download zip dropwdown is not enabled in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_A_BUTTON_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0187
+    message: Download zip dropwdown is not a button in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0188
+    message: Download zip dropwdown file name is not attached in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_VISIBLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0189
+    message: Download zip dropwdown file name is not visible in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_ENABLED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0190
+    message: Download zip dropwdown file name is not enabled in remits downloads page.
+
+  DOWNLOAD_ZIP_DROPDOWN_FILE_NAME_NOT_A_BUTTON_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0191
+    message: Download zip dropwdown file name is not a button in remits downloads page.
+
+  ERROR_WHILE_DOWNLOADING_FILE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0192
+    message: Error while downloading file in remits download page in remits downloads page.
+
+  CLEAR_SELECTED_BUTTON_NOT_ATTACHED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0199
+    message: Clear selected button is not attached in action pane in remits downloads page.
+
+  CLEAR_SELECTED_BUTTON_NOT_VISIBLE_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0200
+    message: Clear selected button is not visible in action pane in remits downloads page.
+
+  CLEAR_SELECTED_BUTTON_NOT_ENABLED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0201
+    message: Clear selected button is not enabled in action pane in remits downloads page.
+
+  CLEAR_SELECTED_BUTTON_NOT_A_BUTTON_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0202
+    message: Clear selected button is not a button in action pane in remits downloads page.
+
+  ANSWER_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0203
+    message: authentication answer field not attched
+
+  ANSWER_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0204
+    message: authentication answer field not visible
+
+  ANSWER_FIELD_NOT_EDITABLE:
+    code: E5.SYSTEM.MODULE.E0205
+    message: authentication answer field not editable
+
+  ANSWER_FIELD_NOT_A_TEXTBOX:
+    code: E5.SYSTEM.MODULE.E0206
+    message: Authentication answer field not a textbox
+
+  PRE_CONDITION_AUTHENTICATION_CHECKBOX_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0207
+    message: precondition authentication checkbox not attached
+
+  PRE_CONDITION_AUTHENTICATION_CHECKBOX_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0208
+    message: precondition authentication checkbox not visible
+
+  PRE_CONDITION_AUTHENTICATION_CHECKBOX_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0209
+    message: precondition authentication checkbox not enabled
+
+  PRE_CONDITION_AUTHENTICATION_CHECKBOX_NOT_A_CHECKBOX:
+    code: E5.SYSTEM.MODULE.E0210
+    message: precondition authentication checkbox not a checkbox
+
+  POST_CONDITION_UNABLE_TO_CHECK_AUTHENTICATION_CHECKBOX:
+    code: E5.SYSTEM.MODULE.E0211
+    message: postcondition unable to check authentication checkbox
+
+  POST_CONDITION_UNABLE_TO_UNCHECK_AUTHENTICATION_CHECKBOX:
+    code: E5.SYSTEM.MODULE.E0212
+    message: postcondition unable to uncheck authentication checkbox
+
+  VERIFY_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0213
+    message: verify button not attched
+
+  VERIFY_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0214
+    message: verify button not visible
+
+  VERIFY_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0215
+    message: verify button not enabled
+
+  INVALID_ANSWER_ERROR:
+    code: E5.SYSTEM.MODULE.E0216
+    message: invalid answer in authentication page
+
+  VERIFY_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0217
+    message: verify button not a button
+
+  ANSWER_FIELD_VALUE_NOT_POPULATED:
+    code: E5.SYSTEM.MODULE.E0218
+    message: answer filed value not populated in authentication page
+
+  INVALID_LOGIN_CREDENTIALS:
+    code: E5.SYSTEM.MODULE.E0219
+    message: invalid login credentials
+
+  LOGOUT_BUTTON_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0220
+    meesage: logout button not attached
+
+  LOGOUT_BUTTON_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0221
+    message: logout button not visible
+
+  LOGOUT_BUTTON_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0222
+    message: logout button not enabled
+
+  LOGOUT_BUTTON_NOT_A_BUTTON:
+    code: E5.SYSTEM.MODULE.E0223
+    message: logout button not a button
+
+  FIRST_PAGE_BUTTON_NOT_FOUND_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0224
+    message: First page button not found in export page.
+
+  FIRST_PAGE_BUTTON_NOT_VISIBLE_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0225
+    message: First page not visible in the export page.
+
+  FIRST_PAGE_BUTTON_NOT_ENABLED_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0226
+    message: First page not enabled in the export page.
+
+  FIRST_PAGE_BUTTON_NOT_A_BUTTON_IN_EXPORTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0227
+    message: First page bitton not a button in export page.
+
+  CLEAR_SELECTEDROWS_POST_CONDITION_FAILED_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5.SYSTEM.MODULE.E0228
+    message: Failed to clear the selected rows in the action pane.
+
+  LOGIN_PAGE_NOT_LOADED:
+    code: E5.SYSTEM.MODULE.E0229
+    message: Login page not loaded.
+
+  LOCATION_SELECT_BOX_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0230
+    message: location select box not attached.
+
+  LOCATION_SELECT_BOX_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0231
+    message: location select box not visible.
+
+  LOCATION_SELECT_BOX_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0232
+    message: location select box not enabled.
+
+  LOCATION_SELECT_BOX_NOT_A_SELECTBOX:
+    code: E5.SYSTEM.MODULE.E0233
+    message: location select box not a select box.
+
+  LOCATION_SELECT_OPTION_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0234
+    message: location select option not attached.
+
+  LOCATION_SELECT_OPTION_NOT_ENABLED:
+    code: E5.SYSTEM.MODULE.E0235
+    message: location select option not enabled
+
+  POST_CONDITION_UNABLE_TO_SELECT_LOCATION:
+    code: E5.SYSTEM.MODULE.E0236
+    message: postcondition unable to select location
+
+  FILE_NOT_FOUND_IN_EXPORT_PAGE:
+    code: E5.SYSTEM.MODULE.E0237
+    message: File not found in the export page.
+
+  TOTAL_PAGE_FIELD_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0238
+    message: Total page filed not attached.
+
+  TOTAL_PAGE_FIELD_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0239
+    message: Total page field not visible.
+
+  FAILED_TO_GET_TOTAL_PAGES:
+    code: E5.SYSTEM.MODULE.E0240
+    message: Failed to get the total page number.
+
+  POPUP_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0241
+    message:  popup not attached in remits payments page
+
+  ERROR_WHILE_ACCESSING_POPUP_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0242
+    message: error while accessing popup in remits payments page
+
+  POPUP_DOES_NOT_OPEN_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0243
+    message: popup does not open in remits payments page
+
+  PAYMENTS_PAGE_NOT_AVAILABLE:
+    code: E5.SYSTEM.MODULE.E0244
+    message: Payments page is not available.
+
+  GRID_LOADER_IS_STILL_PRESENT_IN_REMITTANCE_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0245
+    message: Grid loader is still present in remittance payments page.
+
+  FILE_NOT_IN_COMPLETE_STATUS:
+    code: E5.SYSTEM.MODULE.E0250
+    message: File not in complete status
+
+  POST_CONDITION_SUCCESS_RESPONSE_NOT_FOUND:
+    code: E5.SYSTEM.MODULE.E0251
+    message: Post condition success response not populated after selecting location 
+
+  POST_CONDITION_WRONG_LOCATION_SELECTED:
+    code: E5.SYSTEM.MODULE.E0252
+    message: Post condition account name is incorrect  after selecting location 
+  
+  INVALID_VALUES_TO_SEARCH:
+    code: E5.SYSTEM.MODULE.E0253
+    message: Invalid values to search in filter
+  
+  SELECT_LOCATION_RESPONSE_MESSAGE_NOT_ATTACHED:
+    code: E5.SYSTEM.MODULE.E0254
+    message: Select location response message not attached
+  
+  SELECT_LOCATION_RESPONSE_MESSAGE_NOT_VISIBLE:
+    code: E5.SYSTEM.MODULE.E0255
+    message: Select location response message not visible
+
+  FAILED_TO_ACCESS_FILE_IN_EXPORT:
+    code: E5.SYSTEM.MODULE.E0256
+    message: Failed to access the file in exports.
+
+  GRID_LOADER_PRESENT:
+    code: E5.SYSTEM.MODULE.E0257
+    message: Grid loader still present in RemitExports Page
+    
+  NETWORK_LOADER_TIMEOUT:
+    code: E5.SYSTEM.MODULE.E0258
+    message: Network call is busy even after wait.
+
+  DOWNLOADS_PAGE_NOT_LOADED:
+    code: E5.SYSTEM.MODULE.E0259
+    message: Page not loaded even after wait.
+
+  REMITS_EXPORTS_PAGE_NOT_LOADED:
+    code: E5.SYSTEM.MODULE.E0260
+    message: Remits page not loaded error
+
+  PAYMENTS_PAGE_NOT_LOADED:
+    code: E5.SYSTEM.MODULE.E0261
+    message: Payments page not loaded.
+  
+  PAGE_NOT_LOADED:
+    code: E5.SYSTEM.MODULE.E0262
+    message: page not loaded after navigation.
+
+  INAVLID_RECIEVED_TO_DATE_FORMAT:
+    code: E5.SYSTEM.MODULE.E0263
+    message: Invalid received to date format
+
+  INAVLID_RECIEVED_FROM_DATE_FORMAT:
+    code: E5.SYSTEM.MODULE.E0264
+    message: invalid received from date format
+
+  INAVLID_PAYMENT_TO_DATE_FORMAT:
+    code: E5.SYSTEM.MODULE.E0265
+    message: invalid payment to date format
+
+  INAVLID_PAYMENT_FROM_DATE_FORMAT:
+    code: E5.SYSTEM.MODULE.E0266
+    message: invalid payment from date format
+
+  PAYMENT_START_DATE_GREATER_THAN_END_DATE:
+    code: E5.SYSTEM.MODULE.E0267
+    message: Payment start date greater than end date
+
+  RECEIVED_START_DATE_GREATER_THAN_END_DATE:
+    code: E5.SYSTEM.MODULE.E0268
+    message: Received start date greater than end date
+
+  ARCHIVE_BUTTON_IS_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0269
+    message: Archive button is not attached in remits payment page 
+  
+  ARCHIVE_BUTTON_IS_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0270
+    message: Archive button is not visible in remits payment page 
+
+  ARCHIVE_BUTTON_IS_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0271
+    message: Archive button is not enabled in remits payment page 
+
+  ARCHIVE_BUTTON_IS_NOT_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0272
+    message: Archive button is not a button in remits payment page 
+
+  ERROR_WHILE_ACCESS_ARCHIVE_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0273
+    message: error while accessing archive button in remits paymnet page 
+
+  NO_RECORD_SELECTED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0274
+    message: no record selected in remits paymnet page.
+
+  VIEW_OPTIONS_DROPDOWN_OPTION_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0275
+    message: View Option dropdown option button not attached.
+
+  VIEW_OPTIONS_DROPDOWN_OPTION_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0276
+    message: View Option dropdown option button not visible.
+
+  VIEW_OPTIONS_DROPDOWN_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0277
+    message: View Option dropdown option button not enabled.
+
+  VIEW_OPTIONS_DROPDOWN_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0278
+    message: View Option dropdown option button not a button.
+
+  VIEW_OPTIONS_DROPDOWN_BUTTON_NOT_ATTACHED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0279
+    message: View Option dropdown button not attached.
+
+  VIEW_OPTIONS_DROPDOWN_BUTTON_NOT_A_BUTTON_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0280
+    message: View Option dropdown button not a button.
+
+  VIEW_OPTIONS_DROPDOWN_BUTTON_NOT_VISIBLE_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0281
+    message: View Option dropdown button not visible.
+
+  VIEW_OPTIONS_DROPDOWN_BUTTON_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5.SYSTEM.MODULE.E0282
+    message: View Option dropdown button not enabled.
